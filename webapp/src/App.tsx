@@ -7,6 +7,12 @@ import './App.css'
 
 const INITIAL_RESULTS = 50
 const RESULT_PAGE_SIZE = 50
+const DATA_BUCKET_URL = import.meta.env.VITE_DATA_BUCKET_URL?.replace(/\/+$/, '') ?? ''
+
+function dataUrl(path: string) {
+  const normalizedPath = path.startsWith('/') ? path : `/${path}`
+  return DATA_BUCKET_URL ? `${DATA_BUCKET_URL}${normalizedPath}` : normalizedPath
+}
 
 function App() {
   const [terms, setTerms] = useState<TermsMap | null>(null)
@@ -33,20 +39,33 @@ function App() {
         setLoadingIndex(true)
         setError(null)
 
-        const termsResponse = await fetch('/OTTerms.json', { signal: controller.signal })
+        const termsResponse = await fetch('/OTTerms.json', {
+          signal: controller.signal,
+        })
         if (!termsResponse.ok) {
-          throw new Error(`Failed to load OTerms.json (${termsResponse.status})`)
+          throw new Error(`Failed to load OTTerms.json (${termsResponse.status})`)
         }
         const termsJson = (await termsResponse.json()) as TermsMap
         setTerms(termsJson)
         setLoadingTerms(false)
 
-        const indexResponse = await fetch('/strong-index.json', {
-          signal: controller.signal,
-        })
-        if (!indexResponse.ok) {
-          throw new Error(`Failed to load strong-index.json (${indexResponse.status})`)
+        let indexResponse: Response
+        try {
+          indexResponse = await fetch(dataUrl('/strong-index-min.json'), {
+            signal: controller.signal,
+          })
+          if (!indexResponse.ok) {
+            throw new Error(`Failed to load remote index (${indexResponse.status})`)
+          }
+        } catch {
+          indexResponse = await fetch('/strong-index-min.json', {
+            signal: controller.signal,
+          })
+          if (!indexResponse.ok) {
+            throw new Error(`Failed to load local index (${indexResponse.status})`)
+          }
         }
+
         const indexJson = (await indexResponse.json()) as StrongIndex
         setStrongIndex(indexJson)
       } catch (loadError) {
@@ -192,7 +211,7 @@ function App() {
 
       {loadingTerms && <p className="status">Loading OTerms.json...</p>}
       {!loadingTerms && loadingIndex && (
-        <p className="status">Preloading strong-index.json into memory...</p>
+        <p className="status">Loading data...</p>
       )}
       {error && <p className="status error">{error}</p>}
 

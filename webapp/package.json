@@ -7,7 +7,9 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "cf:deploy": "pnpm build && wrangler pages deploy dist",
+    "cf:deploy:prod": "pnpm build && wrangler pages deploy dist --branch main"
   },
   "dependencies": {
     "react": "^19.2.5",
@@ -25,6 +27,7 @@
     "globals": "^17.5.0",
     "typescript": "~6.0.2",
     "typescript-eslint": "^8.58.2",
-    "vite": "^8.0.10"
+    "vite": "^8.0.10",
+    "wrangler": "^4.84.1"
   }
 }
