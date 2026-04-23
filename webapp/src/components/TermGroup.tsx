@@ -83,8 +83,8 @@ function TermGroup({
                         aria-disabled={allMatches.length === 0}
                       >
                         <span className="strong-row-main">
-                          <strong>{strongsId}</strong>
-                          <span className="hebrew">{entry.HEBREW}</span>
+                          Strongs: <strong>{strongsId}</strong>
+                          <span className="hebrew">({entry.HEBREW})</span>
                         </span>
                         <span className="meta">
                           {allMatches.length === 0 ? 'No references' : `${allMatches.length} refs`}
@@ -94,7 +94,7 @@ function TermGroup({
                       {isStrongOpen && (
                         <div className="panel nested">
                           {visibleMatches.length === 0 && (
-                            <p className="status">No references found for {strongsId}</p>
+                            <p className="status">No references for {strongsId} in the ASV</p>
                           )}
 
                           {visibleMatches.length > 0 && (
