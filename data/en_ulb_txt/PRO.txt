@@ -1,0 +1,915 @@
+PRO 1:1 The proverbs of Solomon son of David, the king of Israel.
+PRO 1:2 These proverbs are to teach wisdom and instruction, to teach words of insight,
+PRO 1:3 that you may receive instruction in prudent behavior, righteousness, justice, and uprightness.
+PRO 1:4 These proverbs are also to give wisdom to the naive, and to give knowledge and discretion to the youth.
+PRO 1:5 Let wise people listen and increase their learning, and let discerning people get wise counsel,
+PRO 1:6 to understand proverbs, parables, and words of wise people and their riddles.
+PRO 1:7 The fear of Yahweh is the beginning of knowledge— fools despise wisdom and instruction.
+PRO 1:8 My son, hear the instruction of your father and do not abandon the rules of your mother;
+PRO 1:9 they will be a graceful wreath for your head and pendants hanging from your neck.
+PRO 1:10 My son, if sinners try to entice you into their sin, do not go with them.
+PRO 1:11 If they say, "Come with us, let us lie in wait for blood, let us hide and attack innocent people for no reason;
+PRO 1:12 let us swallow them up alive, like Sheol takes away those who are healthy, and make them like those who go down into the pit;
+PRO 1:13 we will find all kinds of valuable things; we will fill our houses with plunder;
+PRO 1:14 throw in your lot with us, and we will all have one purse together"—
+PRO 1:15 my son, do not walk down that path with them; do not let your foot touch where they walk;
+PRO 1:16 their feet run to evil and they hurry to shed blood.
+PRO 1:17 For it is useless to spread the net in the sight of any bird.
+PRO 1:18 These men lie in wait for their own blood— they set an ambush for their own lives.
+PRO 1:19 So are the ways of everyone who gains profit by violence; unjust gain takes away the lives of those who hold on to it.
+PRO 1:20 Wisdom cries aloud in the street, she raises her voice in the open places;
+PRO 1:21 at the head of the noisy streets she cries out, at the entrance of the city gates she speaks her sayings,
+PRO 1:22 "How long, you naive people, will you love being naive? How long, you mockers, will you delight in mockery, and how long, you fools, will you hate knowledge?
+PRO 1:23 Turn at my correction; I will pour out my spirit to you; I will make my words known to you.
+PRO 1:24 I have called, and you have refused to listen; I reached out with my hand, but there was no one who paid attention.
+PRO 1:25 But you have ignored all my instruction and paid no attention to my correction.
+PRO 1:26 I will laugh at your calamity, I will mock you when the terror comes—
+PRO 1:27 when your fearful dread comes like a storm and disaster sweeps over you like a whirlwind, when distress and anguish come upon you.
+PRO 1:28 Then they will call upon me, and I will not answer; they will diligently seek me, but they will not find me.
+PRO 1:29 Because they hate knowledge and did not choose the fear of Yahweh,
+PRO 1:30 they would not follow my instruction, and they despised all my correction.
+PRO 1:31 They will eat the fruit of their ways, and with the fruit of their schemes they will be filled.
+PRO 1:32 For the naive are killed when they turn away, and the indifference of fools will destroy them.
+PRO 1:33 But whoever listens to me will dwell in safety and will rest secure with no fear of disaster."
+PRO 2:1 My son, if you receive my words and treasure up my commandments with you,
+PRO 2:2 make your ears pay attention to wisdom and incline your heart to understanding.
+PRO 2:3 If you cry out for discernment and raise your voice for understanding,
+PRO 2:4 if you seek it like you would seek silver and search for understanding as you would seek hidden treasures,
+PRO 2:5 then you will understand the fear of Yahweh and you will find the knowledge of God.
+PRO 2:6 For Yahweh gives wisdom; from his mouth comes knowledge and understanding.
+PRO 2:7 He stores up sound wisdom for the upright; he is a shield for those who walk in integrity;
+PRO 2:8 he guards the paths of justice and he will preserve the way of his faithful ones.
+PRO 2:9 Then you will understand righteousness, justice, and equity, and every good path.
+PRO 2:10 For wisdom will come into your heart, and knowledge will be pleasant to your soul.
+PRO 2:11 Discretion will watch over you; understanding will guard you.
+PRO 2:12 They will rescue you from the way of evil, from those who speak perverse things,
+PRO 2:13 who abandon the paths of uprightness and walk in the ways of darkness.
+PRO 2:14 They rejoice when they do evil and delight in the perversities of evil.
+PRO 2:15 They follow crooked paths, and using deception they hide their tracks.
+PRO 2:16 Wisdom and discretion will save you from an adulteress, from an immoral woman and her flattering words.
+PRO 2:17 She abandons the companion of her youth and forgets the covenant of her God.
+PRO 2:18 For her house sinks down to death, and her tracks will lead you to those in the grave.
+PRO 2:19 All who go to her will not return again and they will not reach the paths of life.
+PRO 2:20 So you will walk in the way of good people and follow the paths of righteous people.
+PRO 2:21 For the upright will make a home in the land, and those with integrity will remain in it.
+PRO 2:22 But the wicked will be cut off from the land, and the faithless will be cut off from it.
+PRO 3:1 My son, do not forget my teaching, and keep my commandments in your heart,
+PRO 3:2 for the length of your days and years of your life, they will add peace to you.
+PRO 3:3 Do not let steadfast love and faithfulness ever leave you; tie them together about your neck; write them on the tablet of your heart.
+PRO 3:4 Then you will find favor and a good reputation in the sight of God and man.
+PRO 3:5 Trust in Yahweh with all your heart and do not lean on your own understanding;
+PRO 3:6 in all your ways acknowledge him and he will make your paths straight.
+PRO 3:7 Do not be wise in your own eyes; fear Yahweh and turn away from evil.
+PRO 3:8 It will be healing to your flesh and refreshment for your bones.
+PRO 3:9 Honor Yahweh with your wealth and with the firstfruits of all your produce,
+PRO 3:10 and your storehouses will be filled up and your vats will be bursting, full of new wine.
+PRO 3:11 My son, do not despise Yahweh's instruction and do not hate his rebuke,
+PRO 3:12 for Yahweh disciplines those he loves, as a father deals with a son who pleases him.
+PRO 3:13 The one who finds wisdom is blessed; he also gets understanding.
+PRO 3:14 What you gain from wisdom is better than what silver will give in return and its profit is better than gold.
+PRO 3:15 Wisdom is more precious than jewels and nothing you desire can compare to her.
+PRO 3:16 She has the length of her days in her right hand; in her left hand are riches and honor.
+PRO 3:17 Her ways are ways of pleasantness and all her paths are peace.
+PRO 3:18 She is a tree of life to those who take hold of it; those who hold on to it are happy.
+PRO 3:19 By wisdom Yahweh founded the earth; by understanding he established the heavens.
+PRO 3:20 By his knowledge the depths broke open and the clouds dropped their dew.
+PRO 3:21 My son, do not let these depart from your eyes: guard sound wisdom and discretion.
+PRO 3:22 They will be life to your soul and an adornment of favor to wear around your neck.
+PRO 3:23 Then you will walk on your way in safety and your foot will not stumble;
+PRO 3:24 when you lie down, you will not be afraid; when you lie down, your sleep will be sweet.
+PRO 3:25 Do not be afraid of sudden terror or devastation caused by the wicked, when it comes,
+PRO 3:26 for Yahweh will be on your side and will keep your foot from being caught in a trap.
+PRO 3:27 Do not withhold good from those who deserve it, when it is in your power to act.
+PRO 3:28 Do not say to your neighbor, "Go, and come again, and tomorrow I will give it," when you have the money with you.
+PRO 3:29 Do not make a plan to harm your neighbor— the one who dwells in safety with you.
+PRO 3:30 Do not argue with a person without a reason, when he has done nothing to harm you.
+PRO 3:31 Do not envy a violent person or choose any of his ways.
+PRO 3:32 For the devious person is an abomination to Yahweh, but he brings the upright person into his confidence.
+PRO 3:33 The curse of Yahweh is on the house of the wicked person, but he blesses the home of righteous people.
+PRO 3:34 He mocks mockers, but he gives his favor to humble people.
+PRO 3:35 Wise people inherit honor, but fools will be lifted up in their shame.
+PRO 4:1 Listen, sons, to a father's instruction, and pay attention so you will know what understanding is.
+PRO 4:2 I am giving you good instructions; do not abandon my teaching.
+PRO 4:3 When I was a son of my father, the tender and only child of my mother,
+PRO 4:4 he taught me and said to me, "Let your heart hold fast to my words; keep my commands and live.
+PRO 4:5 Acquire wisdom and understanding; do not forget and do not reject the words of my mouth;
+PRO 4:6 do not abandon wisdom and she will watch over you; love her and she will keep you safe.
+PRO 4:7 Wisdom is the most important thing, so acquire wisdom and spend all you own so you can get understanding.
+PRO 4:8 Cherish wisdom and she will exalt you; she will honor you when you embrace her.
+PRO 4:9 She will put a wreath of honor on your head; she will give you a beautiful crown."
+PRO 4:10 Listen, my son, and receive my words, and you will have many years in your life.
+PRO 4:11 I am teaching you in the way of wisdom; I am leading you in upright paths.
+PRO 4:12 When you walk, no one will stand in your way and if you run, you will not stumble.
+PRO 4:13 Hold on to instruction, do not let it go; guard it, for it is your life.
+PRO 4:14 Do not follow the path of the wicked and do not go along the way of those who do evil.
+PRO 4:15 Avoid it, do not go on it; turn away from it and go another way.
+PRO 4:16 For they cannot sleep until they do evil and they are robbed of sleep until they cause someone to stumble.
+PRO 4:17 For they devour the bread of wickedness and drink the wine of violence.
+PRO 4:18 But the path of righteous people is like the first light that grows brighter; it shines more and more until the fullness of the day comes.
+PRO 4:19 The way of the wicked is like darkness— they do not know what it is they stumble over.
+PRO 4:20 My son, pay attention to my words; incline your ear to my sayings.
+PRO 4:21 Do not let them turn away from your eyes; keep them in your heart.
+PRO 4:22 For my words are life to those who find them and health to their whole body.
+PRO 4:23 Keep your heart safe and guard it with all diligence, for from it flow the springs of life.
+PRO 4:24 Put crooked speech away from you and put corrupt talk far from you.
+PRO 4:25 Let your eyes look straight ahead and fix your gaze straight before you.
+PRO 4:26 Make a level path for your foot; then all your ways will be established.
+PRO 4:27 Do not turn aside to the right or to the left; turn your foot away from evil.
+PRO 5:1 My son, pay attention to my wisdom; incline your ears to my understanding,
+PRO 5:2 so you may learn about discretion and your lips may protect knowledge.
+PRO 5:3 For the lips of an adulteress drip with honey and her mouth is smoother than oil,
+PRO 5:4 but in the end she is as bitter as wormwood, cutting like a sharp sword.
+PRO 5:5 Her feet go down to death; her steps go all the way to Sheol.
+PRO 5:6 She gives no thought to the path of life. Her footsteps wander; she does not know where she is going.
+PRO 5:7 Now, my sons, listen to me; do not turn away from listening to the words of my mouth.
+PRO 5:8 Keep your path far away from her and do not come near the door of her house.
+PRO 5:9 In that way you will not give away your honor to others or years of your life to a cruel person;
+PRO 5:10 strangers will not feast on your strength; your labor will not go into the house of foreigners.
+PRO 5:11 At the end of your life you will groan when your flesh and your body waste away.
+PRO 5:12 You will say, "How I hated instruction and my heart despised correction!
+PRO 5:13 I would not listen to the voice of my teachers or incline my ear to my instructors.
+PRO 5:14 I was almost completely ruined in the midst of the assembly, among the gathering of the people."
+PRO 5:15 Drink water from your own cistern and drink running water from your own well.
+PRO 5:16 Should your springs be dispersed everywhere and your streams of water flow in the public squares?
+PRO 5:17 Let them be for yourself alone and not for strangers with you.
+PRO 5:18 May your fountain be blessed and may you rejoice in the wife of your youth,
+PRO 5:19 for she is a loving deer and a graceful doe. Let her breasts satisfy you at all times; may you be continually intoxicated by her love.
+PRO 5:20 For why should you, my son, be captivated by an adulteress? Why should you embrace the bosom of an immoral woman?
+PRO 5:21 Yahweh sees everything a person does and watches all the paths he takes.
+PRO 5:22 A wicked person will be seized by his own iniquities; the cords of his sin will hold him tight.
+PRO 5:23 He will die because he lacks instruction; he is led astray by his great foolishness.
+PRO 6:1 My son, if you set aside your money as a guarantee for your neighbor's loan, if you gave your promise for a loan of someone you do not know,
+PRO 6:2 then you have laid a trap for yourself by your promise and you have been caught by the words of your mouth.
+PRO 6:3 When you are caught by your words, my son, do this and save yourself, since you have fallen into the hand of your neighbor; go and humble yourself and make your case before your neighbor.
+PRO 6:4 Give your eyes no sleep and your eyelids no slumber.
+PRO 6:5 Save yourself like a gazelle from the hand of the hunter, like a bird from the hand of the fowler.
+PRO 6:6 Look at the ant, you lazy person, consider her ways, and be wise.
+PRO 6:7 It has no commander, officer, or ruler,
+PRO 6:8 yet it prepares its food in the summer and during the harvest it stores up what it will eat.
+PRO 6:9 How long will you lie down, you lazy person? When will you rise from your sleep?
+PRO 6:10 "A little sleep, a little slumber, a little folding of the hands to rest"—
+PRO 6:11 and your poverty will come like a robber and your needs like an armed soldier.
+PRO 6:12 A worthless person—a wicked man— lives by the crookedness of his speech,
+PRO 6:13 winking his eyes, making signals with his feet and pointing with his fingers.
+PRO 6:14 He plots evil with perversity in his heart; he always stirs up strife.
+PRO 6:15 Therefore his disaster will overtake him in an instant; in a moment he will be broken beyond healing.
+PRO 6:16 There are six things that Yahweh hates, seven that are an abomination to him:
+PRO 6:17 the eyes of a proud person, a tongue that lies, hands that shed the blood of innocent people,
+PRO 6:18 a heart that invents wicked schemes, feet that quickly run to do evil,
+PRO 6:19 a witness who breathes out lies and one who sows discord among brothers.
+PRO 6:20 My son, obey the command of your father and do not abandon the teaching of your mother.
+PRO 6:21 Always bind them on your heart; tie them about your neck.
+PRO 6:22 When you walk, they will guide you; when you lie down, they will watch over you; and when you wake up, they will teach you.
+PRO 6:23 For the commands are a lamp, and the teaching is a light; the corrections that come by instruction are the way of life.
+PRO 6:24 It keeps you from the evil woman, from the smooth tongue of an immoral woman.
+PRO 6:25 Do not lust in your heart after her beauty and do not let her capture you with her eyelashes.
+PRO 6:26 The price of a prostitute is the cost of a loaf of bread, but the wife of another man hunts for a precious life.
+PRO 6:27 Can a man carry a fire against his chest without burning his clothes?
+PRO 6:28 Can a man walk on hot coals without scorching his feet?
+PRO 6:29 So is the man who goes to his neighbor's wife; the one who touches her will not go unpunished.
+PRO 6:30 People do not despise a thief if he steals to satisfy his need when he is hungry.
+PRO 6:31 Yet if he is caught, he will pay back seven times what he stole; he must give up everything of value in his house.
+PRO 6:32 The one who commits adultery lacks sense; the one who does it destroys himself.
+PRO 6:33 Wounds and shame are what he deserves and his disgrace will not be blotted out.
+PRO 6:34 For jealousy makes a man furious; he will show no mercy on the day of vengeance.
+PRO 6:35 He will accept no ransom and he cannot be bought off, though you offer him many gifts.
+PRO 7:1 My son, keep my words and store up my commands within yourself.
+PRO 7:2 Keep my commands and live, and keep my instruction as the apple of your eye.
+PRO 7:3 Tie them on your fingers; write them on the tablet of your heart.
+PRO 7:4 Say to wisdom, "You are my sister," and call understanding your kinsman,
+PRO 7:5 in order to keep yourself from the adulterous woman, from the immoral woman who makes her words smooth.
+PRO 7:6 At the window of my house I was looking out through the lattice.
+PRO 7:7 I looked at the naive people, and I noticed among the young men a youth who had no sense.
+PRO 7:8 That young man passed down the street near her corner, and he went toward her house.
+PRO 7:9 It was twilight, in the evening of the day, at the time of night and darkness.
+PRO 7:10 There a woman met him, dressed like a prostitute, with a false heart.
+PRO 7:11 She was loud and rebellious; her feet did not stay at home.
+PRO 7:12 Now in the streets, then in the marketplace, and at every corner she waited in ambush.
+PRO 7:13 So she grabbed him and kissed him, with a strong face she said to him,
+PRO 7:14 "I made my peace offering today, I fulfilled my vows,
+PRO 7:15 so I came out to meet you, to eagerly seek your face, and I have found you.
+PRO 7:16 I have spread coverings on my bed, colored linens from Egypt.
+PRO 7:17 I have sprinkled my bed with myrrh, aloes, and cinnamon.
+PRO 7:18 Come, let us drink our fill of love until morning; let us take great pleasure in acts of love.
+PRO 7:19 For my husband is not at his house; he has gone on a long journey.
+PRO 7:20 He took a bag of money with him; he will come home on the day of the full moon."
+PRO 7:21 With her great persuasiveness she turned him; with her smooth lips she compelled him.
+PRO 7:22 Suddenly he went after her like an ox going to slaughter, and like a fool is punished with shackles,\f + \ft The Hebrew text is difficult to understand. The ancient Greek translation has: \fqa like a dog to the muzzle. \fqa* Some translations have \fqa like a deer to the trap\fqa*. \f*
+PRO 7:23 until an arrow pierces through his liver. He was like a bird rushing into a snare. He did not know that it would cost him his life.
+PRO 7:24 Now, my sons, listen to me; pay attention to the words of my mouth.
+PRO 7:25 May your heart not turn aside onto her paths; do not be led astray onto her paths.
+PRO 7:26 She has caused many people to fall down pierced; those she has killed are numerous.
+PRO 7:27 Her house is on the paths to Sheol; they go down to the dark bedrooms of death.
+PRO 8:1 Does not Wisdom call out? Does not Understanding raise her voice?
+PRO 8:2 On the hilltops beside the road, at the crossroads, Wisdom has taken her stand.
+PRO 8:3 Before the gates at the entrance into the city, at the entrances into the city, she cries out.
+PRO 8:4 "It is to you, people, that I call; my voice is for the sons of mankind.
+PRO 8:5 You who are naive, learn wisdom; and you who are foolish, you must get an understanding mind.
+PRO 8:6 Listen, because I will speak of noble things, and when my lips open I will say upright things.
+PRO 8:7 For my mouth speaks what is trustworthy, and wickedness is an abomination to my lips.
+PRO 8:8 All the words of my mouth are just; in them is nothing twisted or perverse.
+PRO 8:9 All of them are straight for the person who understands; my words are upright for those who find knowledge.
+PRO 8:10 Acquire my instruction rather than silver; acquire knowledge rather than choicest gold.
+PRO 8:11 For Wisdom is better than jewels; no desirable thing is equal to her.
+PRO 8:12 I, Wisdom, live with Prudence, and I possess knowledge and discretion.
+PRO 8:13 The fear of Yahweh is to hate evil. I hate pride and arrogance, the evil way, and perverted speech. I hate them.
+PRO 8:14 I have good advice and sound wisdom; I am insight; strength belongs to me.
+PRO 8:15 By me kings reign, and rulers make laws that are just.
+PRO 8:16 By me princes rule, nobles, and all who judge with justice.
+PRO 8:17 I love those who love me, and those who diligently seek me, find me.
+PRO 8:18 With me are riches and honor, lasting wealth and righteousness.
+PRO 8:19 My fruit is better than gold, even fine gold; my produce is better than pure silver.
+PRO 8:20 I walk in the path of righteousness, in the midst of the paths of justice.
+PRO 8:21 As a result, I make those who love me inherit wealth; I fill up their treasuries.
+PRO 8:22 Yahweh created me at the beginning, the first of his deeds long ago.
+PRO 8:23 In ages long ago I was established—from the first, from the beginnings of the earth.
+PRO 8:24 Before there were oceans, I was given birth— before there were springs abounding with water.
+PRO 8:25 Before the mountains were settled and before the hills, I was born.
+PRO 8:26 I was born before Yahweh had made the earth or the fields, or even the first dust in the world.
+PRO 8:27 I was there when he established the heavens, when he drew a circle on the surface of the deep.
+PRO 8:28 I was there when he established the clouds above and when the springs in the deep became fixed.
+PRO 8:29 I was there when he made his limit for the sea, so the waters should not spread beyond his command, and when there was set the limit for the foundations of the dry land.
+PRO 8:30 I was beside him, as a skilled craftsman; I was his delight day after day, always rejoicing before him.
+PRO 8:31 I was rejoicing in his whole world, and my delight was in the sons of mankind.
+PRO 8:32 Now, my sons, listen to me, for those who keep my ways will be blessed.
+PRO 8:33 Listen to my instruction and be wise; do not neglect it.
+PRO 8:34 The one who listens to me will be blessed. He will be watching every day at my doors, waiting beside the posts of my doors.
+PRO 8:35 For whoever finds me, finds life, and he will find the favor of Yahweh.
+PRO 8:36 But he who fails, harms his own life; all who hate me love death."
+PRO 9:1 Wisdom has built her own house; she has carved seven pillars out of rocks.
+PRO 9:2 She has slaughtered her animals, she has mixed her wine, and she has set her table.
+PRO 9:3 She has sent out her maids; she calls out from the highest points of the city,
+PRO 9:4 "Who is naive? Let him turn aside here!" To the one lacking good sense she speaks.
+PRO 9:5 "Come, eat my food, and drink the wine I have mixed.
+PRO 9:6 Leave your naive actions and live; walk in the path of understanding.
+PRO 9:7 Whoever disciplines a mocker receives dishonor, and whoever rebukes a wicked person receives abuse.
+PRO 9:8 Do not reprove a mocker, or he will hate you; reprove a wise man, and he will love you.
+PRO 9:9 Give to a wise person, and he will become even wiser; teach a righteous person, and he will add to his learning.
+PRO 9:10 The fear of Yahweh is the beginning of wisdom, and the knowledge of the Holy One is understanding.
+PRO 9:11 For through me your days will be multiplied, and years of life will be added to you.
+PRO 9:12 If you are wise, you are wise for yourself, and if you mock, you will carry it by yourself."
+PRO 9:13 The woman of foolishness is ignorant; she is untaught and knows nothing.
+PRO 9:14 She sits at the door of her house, on a seat in the highest places of the town.
+PRO 9:15 She is calling out to those who pass by in the streets, to people walking straight on their way.
+PRO 9:16 "Let anyone who is naive turn aside here," she says to those who have no sense.
+PRO 9:17 "Stolen waters are sweet, and bread of secrecy is delicious."
+PRO 9:18 But he does not know that the dead are there, that her invited guests are in the depths of Sheol.
+PRO 10:1 The proverbs of Solomon. A wise son makes his father rejoice but a foolish son brings grief to his mother.
+PRO 10:2 Treasures accumulated by wickedness give no profit, but doing what is right delivers from death.
+PRO 10:3 Yahweh does not let the soul of the righteous person go hungry, but he frustrates the cravings of the wicked.
+PRO 10:4 A lazy hand causes a person to be poor, but the hand of the diligent person gains riches.
+PRO 10:5 A wise son gathers a crop in the summer, but it is disgraceful for him to sleep during harvest.
+PRO 10:6 Blessings from God are upon the head of the righteous person, but the mouth of the wicked covers up violence.
+PRO 10:7 The righteous person makes those who remember him happy, but the name of the wicked will rot away.
+PRO 10:8 The wise of heart accept commands, but a talkative fool will come to ruin.
+PRO 10:9 He who walks in integrity walks in safety, but the one who makes his ways crooked, he will be found out.
+PRO 10:10 He who winks the eye causes grief, but a talkative fool will come to ruin.
+PRO 10:11 The mouth of the righteous person is a water spring of life, but the mouth of the wicked covers up violence.
+PRO 10:12 Hatred stirs up conflicts, but love covers over all transgressions.
+PRO 10:13 Wisdom is found on the lips of a discerning person, but a rod is for the back of the one who has no sense.
+PRO 10:14 Wise men store up knowledge, but the mouth of a fool brings destruction near.
+PRO 10:15 The wealth of a rich man is his fortified city; the poverty of the poor is their destruction.
+PRO 10:16 The wage of the righteous person leads to life; the income of the wicked leads them to sin.
+PRO 10:17 There is a path to life for the one who follows discipline, but the one who rejects correction is led astray.
+PRO 10:18 Whoever conceals hatred has lying lips, and whoever spreads slander is a fool.
+PRO 10:19 When there are many words, transgression is not lacking, but he who is careful in what he says is wise.
+PRO 10:20 The tongue of the righteous person is pure silver; there is little value in the heart of the wicked.
+PRO 10:21 The lips of the righteous person nourish many, but fools die because of their lack of sense.
+PRO 10:22 The blessings of Yahweh bring wealth and he adds no pain to it.
+PRO 10:23 Wickedness is a game a fool plays, but wisdom is a pleasure to a man of understanding.
+PRO 10:24 The fear of the wicked person will overtake him, but the desire of righteous people will be granted.
+PRO 10:25 The wicked are like the storm that passes by, and they are no more, but the righteous person is a foundation that lasts forever.
+PRO 10:26 Like vinegar on the teeth and smoke in the eyes, so is the lazy person to those who send him.
+PRO 10:27 The fear of Yahweh prolongs life, but the years of the wicked will be short.
+PRO 10:28 The hope of righteous people is their joy, but the hope of wicked people will perish.
+PRO 10:29 The way of Yahweh is a stronghold for those who have integrity, but it is destruction for those who behave wickedly.
+PRO 10:30 The righteous person will never be overthrown, but the wicked will not remain in the land.
+PRO 10:31 Out of the mouth of the righteous person comes the fruit of wisdom, but the perverse tongue will be cut out.
+PRO 10:32 The lips of the righteous person know what gains favor, but the mouth of the wicked, they know what is perverse.
+PRO 11:1 False scales are an abomination to Yahweh, but he delights in a precise weight.
+PRO 11:2 When pride comes, then comes disgrace, but with humility comes wisdom.
+PRO 11:3 The integrity of the upright guides them, but the crooked ways of the treacherous destroy them.
+PRO 11:4 Wealth is worthless on the day of wrath, but doing right delivers you from death.
+PRO 11:5 The right conduct of a blameless person makes his way straight, but the wicked will fall because of their own wickedness.
+PRO 11:6 The right conduct of the upright keeps them safe, but the treacherous are trapped by their cravings.
+PRO 11:7 When a wicked man dies, his hope perishes and the hope that was in his strength comes to nothing.
+PRO 11:8 The righteous person is delivered from trouble and it comes upon the wicked instead.
+PRO 11:9 With his mouth the godless person destroys his neighbor, but through knowledge righteous people are kept safe.
+PRO 11:10 When righteous people prosper, a city rejoices; when the wicked perish, there are shouts of joy.
+PRO 11:11 Through the blessings of the upright the city is exalted; by the mouth of the wicked the city is thrown down.
+PRO 11:12 The man who has contempt for his friend has no sense, but a man of understanding keeps quiet.
+PRO 11:13 Whoever goes around slandering reveals secrets, but the trustworthy in spirit keeps a matter covered.
+PRO 11:14 Where there is no counsel, a nation falls, but victory comes through many counselors.
+PRO 11:15 Whoever guarantees a loan for a stranger will surely suffer harm, but the one who hates giving a pledge in that kind of promise is safe.
+PRO 11:16 A gracious woman gets honor, but violent people grasp for wealth.
+PRO 11:17 A merciful person benefits himself, but one who is cruel hurts himself.
+PRO 11:18 The wicked person lies to get his wages, but one who sows what is right reaps the wages of truth.
+PRO 11:19 An honest person who does what is right will live, but the one who pursues evil will die.
+PRO 11:20 Those whose hearts are perverse are an abomination to Yahweh, but he delights in those whose ways are blameless.
+PRO 11:21 Be sure of this—the wicked person will not go unpunished, but the descendants of righteous people will be kept safe.
+PRO 11:22 Like a gold ring in a pig's nose is a beautiful woman without discretion.
+PRO 11:23 The desires of righteous people result in good, but wicked people can only hope for wrath.
+PRO 11:24 There is one who scatters—he will accumulate even more; another withholds what is just—he comes to poverty.
+PRO 11:25 The generous person will prosper and the one who gives water to others will have water for himself.
+PRO 11:26 People curse the man who refuses to sell grain, but good gifts crown the head of him who sells it.
+PRO 11:27 The one who diligently seeks good is also seeking favor, but the one who searches for evil will find it.
+PRO 11:28 Those who trust in their riches will fall, but like the leaf, righteous people will flourish.
+PRO 11:29 The one who brings trouble on his own household will inherit the wind and the fool will become a servant to the wise of heart.
+PRO 11:30 The fruit of the righteous is a tree of life, but violence takes away lives.
+PRO 11:31 Behold! The righteous person is rewarded on earth; how much more the wicked and the sinner!
+PRO 12:1 Whoever loves discipline loves knowledge, but the one who hates correction is stupid.
+PRO 12:2 Yahweh gives favor to a good man, but he condemns a man who makes evil plans.
+PRO 12:3 A person cannot be established by wickedness, but righteous people cannot be uprooted.
+PRO 12:4 A worthy wife is her husband's crown, but she who brings shame is like a disease that rots his bones.
+PRO 12:5 The plans of the righteous are just, but the advice of the wicked is deceitful.
+PRO 12:6 The words of wicked people are an ambush waiting for bloodshed, but the words of the upright keep them safe.
+PRO 12:7 Wicked people are overthrown and they are gone, but the house of the righteous person will stand.
+PRO 12:8 A man is praised for prudent lips, but the perverse heart is despised.
+PRO 12:9 Better the person of low position who has a servant than the one who honors himself but has no food.
+PRO 12:10 The righteous person cares about the needs of his animal, but even the compassion of the wicked is cruel.
+PRO 12:11 The one who works his land will have plenty of food, but whoever chases after worthless projects has no sense.
+PRO 12:12 The evil person desires the plunder of the wicked, but the righteous root endures.
+PRO 12:13 An evil person is trapped by the transgression of his lips, but the righteous person escapes from trouble.
+PRO 12:14 From the fruit of his words a person is filled with good things, just as the work of his hands rewards him.
+PRO 12:15 The way of a fool is right in his own eyes, but a wise man listens to advice.
+PRO 12:16 A fool shows his anger at once, but one who ignores an insult is prudent.
+PRO 12:17 The one who speaks the truth says what is right, but a false witness, deceit.
+PRO 12:18 The words of one who speaks rashly are like the thrusts of a sword, but the tongue of the wise brings healing.
+PRO 12:19 Truthful lips last forever, but a lying tongue is only for a moment.
+PRO 12:20 There is deceit in the hearts of those who plan to do evil, but joy comes to the advisors of peace.
+PRO 12:21 No ill comes upon the righteous, but the wicked are filled with distress.
+PRO 12:22 Lying lips are an abomination to Yahweh, but those who live faithfully are his delight.
+PRO 12:23 A prudent man conceals his knowledge, but the heart of fools shouts out folly.
+PRO 12:24 The hand of the diligent will rule, but lazy people will be put to forced labor.
+PRO 12:25 Anxiety in the heart of a person weighs him down, but a good word makes him glad.
+PRO 12:26 The righteous person is a guide for his friend, but the way of the wicked leads them astray.
+PRO 12:27 Lazy people would not roast their own game, but the diligent man will obtain precious wealth.
+PRO 12:28 Those who walk in the right way find life and in its path there is no death.
+PRO 13:1 A wise son hears his father's instruction, but a mocker will not listen to rebuke.
+PRO 13:2 From the fruit of his mouth a person enjoys good things, but the appetite of the treacherous is for violence.
+PRO 13:3 The one who guards his mouth protects his life, but the one who opens wide his lips will ruin himself.
+PRO 13:4 The appetite of the lazy person craves but gets nothing, but the appetite of the diligent person will be richly satisfied.
+PRO 13:5 The righteous person hates deceptive words, but a wicked person makes himself repugnant, and he does what is shameful.
+PRO 13:6 Righteousness protects those who are faultless in their path, but wickedness ruins those who commit sin.
+PRO 13:7 There is someone who enriches himself, but has nothing at all, and there is someone who gives everything away, yet has much wealth.
+PRO 13:8 The ransom of a rich man's life is his wealth, but a poor person does not hear a threat.
+PRO 13:9 The light of righteous people rejoices, but the lamp of wicked people will be put out.
+PRO 13:10 Pride only breeds conflict, but for those who listen to good advice there is wisdom.
+PRO 13:11 Wealth dwindles away when there is too much vanity, but the one who makes money by working with his hand will make his money grow.
+PRO 13:12 When hope is postponed, it breaks the heart, but a longing fulfilled is a tree of life.
+PRO 13:13 Whoever despises instruction brings destruction on himself, but he who respects the commandment will be rewarded.
+PRO 13:14 The teaching of a wise person is a fountain of life, turning you away from the snares of death.
+PRO 13:15 Good insight wins favor, but the way of the treacherous is disaster.\f + \ft The ULB is following the ancient Greek translation because the Hebrew is difficult to understand. The Hebrew has: \fqa the way of the treacherous is unending. \fqa* \f*
+PRO 13:16 Prudent people act out of knowledge in every decision, but a fool parades his folly.
+PRO 13:17 A wicked messenger falls into trouble, but a faithful envoy brings healing.
+PRO 13:18 The one who ignores instruction will have poverty and shame, but honor will come to him who learns from correction.
+PRO 13:19 A longing realized is sweet to the appetite, but turning away from evil is an abomination to fools.
+PRO 13:20 Walk with wise people and you will be wise, but the companion of fools will suffer harm.
+PRO 13:21 Disaster runs after sinners, but righteous people are rewarded with good.
+PRO 13:22 A good person leaves an inheritance for his grandchildren, but a sinner's wealth is stored up for the righteous person.
+PRO 13:23 An unplowed field owned by the poor could produce much food, but it is swept away by injustice.
+PRO 13:24 The one who does not use his rod hates his son, but one who loves his son is careful to instruct him.
+PRO 13:25 The righteous person eats until he satisfies his appetite, but the stomach of the wicked is always hungry.
+PRO 14:1 The wise woman builds her house, but a foolish woman tears it down with her own hands.
+PRO 14:2 The one who walks uprightly fears Yahweh, but the one who is dishonest in his ways despises him.
+PRO 14:3 From the mouth of a fool comes a rod for his back, but the lips of the wise will preserve them.
+PRO 14:4 Where there are no cattle, the feeding trough is clean, but an abundant crop comes from the strength of an ox.
+PRO 14:5 A faithful witness does not lie, but a false witness breathes out lies.
+PRO 14:6 A mocker seeks wisdom and there is none, but knowledge comes easily to the one who is discerning.
+PRO 14:7 Walk away from a foolish person, for you will not find knowledge on his lips.
+PRO 14:8 The wisdom of the prudent person is to understand his own way, but the folly of fools is deception.
+PRO 14:9 Fools mock when the guilt offering is sacrificed, but among the upright favor is shared.
+PRO 14:10 The heart knows its own bitterness and no stranger shares its joy.
+PRO 14:11 The house of wicked people will be destroyed, but the tent of the upright will flourish.
+PRO 14:12 There is a way that seems right to a man, but its end only leads to death.
+PRO 14:13 A heart can laugh but still be in pain and joy may end up being grief.
+PRO 14:14 The faithless in heart will get what his ways deserve, but a good person will get what is his.
+PRO 14:15 The one who is naive believes everything, but the prudent man thinks about his steps.
+PRO 14:16 A wise man fears and turns away from evil, but the fool confidently dismisses a warning.
+PRO 14:17 One who is quick to become angry does foolish things, and a person who makes evil schemes is hated.
+PRO 14:18 The naive inherit foolishness, but prudent people are crowned with knowledge.
+PRO 14:19 Evil people will bow down before those who are good and those who are wicked will bow down at the gates of the righteous person.
+PRO 14:20 The poor person is hated even by his own companions, but the rich people have many friends.
+PRO 14:21 The one who shows contempt for his neighbor is sinning, but the one who shows favor to the poor is blessed.
+PRO 14:22 Do not those who plot evil go astray? But those who plan to do good will receive steadfast love and faithfulness.
+PRO 14:23 With all hard work comes a profit, but when there is only talk, it leads to poverty.
+PRO 14:24 The crown of wise people is their wealth, but the folly of fools brings them only more folly.
+PRO 14:25 A truthful witness saves lives, but he who breathes out lies brings betrayal.
+PRO 14:26 In the fear of Yahweh is strong confidence; it will be a refuge for his children.
+PRO 14:27 The fear of Yahweh is a fountain of life, so that a person may turn away from the snares of death.
+PRO 14:28 The glory of a king is found in the great number of his people, but without people the prince is ruined.
+PRO 14:29 A patient person has great understanding, but the quick-tempered person exalts folly.
+PRO 14:30 A tranquil heart is life for the body, but envy rots the bones.
+PRO 14:31 The one who oppresses the poor insults his Maker, but the one who shows favor to the needy honors him.
+PRO 14:32 The wicked person is brought down by his evil actions, but the righteous person has a refuge even in death.
+PRO 14:33 Wisdom rests in the heart of the discerning, but even among fools she lets herself be known.
+PRO 14:34 Doing what is right exalts a nation, but sin is a disgrace to any people.
+PRO 14:35 The favor of the king is with the servant who acts prudently, but his anger is for the one who acts shamefully.
+PRO 15:1 A gentle answer turns away wrath, but a harsh word stirs up anger.
+PRO 15:2 The tongue of wise people compliments knowledge, but the mouth of fools pours out folly.
+PRO 15:3 The eyes of Yahweh are everywhere, keeping watch over the evil and the good.
+PRO 15:4 A healing tongue is a tree of life, but a deceitful tongue crushes the spirit.
+PRO 15:5 A fool has contempt for his father's instruction, but he who learns from correction is prudent.
+PRO 15:6 In the house of the righteous person there is great treasure, but the earnings of the wicked person give him trouble.
+PRO 15:7 The lips of wise people scatter knowledge about, but not so the hearts of fools.
+PRO 15:8 The sacrifice of the wicked is an abomination to Yahweh, but the prayer of the upright is his delight.
+PRO 15:9 The way of wicked people is an abomination to Yahweh, but he loves the one who pursues what is right.
+PRO 15:10 Harsh discipline awaits anyone who abandons the way and he who hates correction will die.
+PRO 15:11 Sheol and destruction are open before Yahweh; how much more the hearts of the sons of mankind?
+PRO 15:12 The mocker does not love the one who corrects him; he will not go to the wise.
+PRO 15:13 A joyful heart makes the face cheerful, but by an injured heart the spirit is broken.
+PRO 15:14 The heart of the discerning seeks knowledge, but the mouth of fools feeds on folly.
+PRO 15:15 All the days of the afflicted are miserable, but a cheerful heart has an unending feast.
+PRO 15:16 Better is little with the fear of Yahweh than great treasure with tumult.
+PRO 15:17 Better is a meal with vegetables where there is love than a fattened calf served with hatred.
+PRO 15:18 An angry man stirs up strife, but a person who is slow to anger quiets a quarrel.
+PRO 15:19 The path of the lazy person is like a place with a hedge of thorns, but the path of the upright is a built-up highway.
+PRO 15:20 A wise son brings joy to his father, but a foolish person despises his mother.
+PRO 15:21 Folly delights a person who lacks sense, but the one who has understanding walks a straight path.
+PRO 15:22 Plans go wrong where there is no advice, but with numerous advisors they succeed.
+PRO 15:23 A person finds joy when he gives a pertinent reply; how good is a timely word!
+PRO 15:24 The path of life leads upward for prudent people, that they may turn away from Sheol beneath.
+PRO 15:25 Yahweh tears down the house of the proud, but he protects the property of the widow.
+PRO 15:26 The thoughts of the wicked are an abomination to Yahweh, but pleasant words are pure.
+PRO 15:27 The person who profits from unjust gain brings trouble to his family, but the one who hates bribes will live.
+PRO 15:28 The heart of the righteous person ponders before it answers, but the mouth of wicked people pours out all its evil.
+PRO 15:29 Yahweh is far away from wicked people, but he hears the prayer of righteous people.
+PRO 15:30 The light of the eyes brings joy to the heart and good news is health to the body.
+PRO 15:31 The ear that listens to life-giving rebuke will dwell among wise people.
+PRO 15:32 The one who rejects discipline despises himself, but he who listens to correction gains understanding.
+PRO 15:33 The fear of Yahweh instructs in wisdom, and humility comes before honor.
+PRO 16:1 The plans of the heart belong to a person, but the answer from his tongue comes from Yahweh.
+PRO 16:2 All of a person's ways are pure in his own eyes, but Yahweh weighs the spirits.
+PRO 16:3 Commit your works to Yahweh and your plans will succeed.
+PRO 16:4 Yahweh has made everything for its purpose, even the wicked for the day of trouble.
+PRO 16:5 Every exalted heart is an abomination to Yahweh, but be sure of this, they will not go unpunished.
+PRO 16:6 By steadfast love and faithfulness iniquity is atoned for and by the fear of Yahweh people turn away from evil.
+PRO 16:7 When a person's ways are pleasing to Yahweh, he makes even that person's enemies to be at peace with him.
+PRO 16:8 Better is a little with what is right, than a large income with injustice.
+PRO 16:9 In his heart a person plans out his way, but Yahweh directs his steps.
+PRO 16:10 Insightful decisions are on the lips of a king; his mouth should not betray justice.
+PRO 16:11 Honest scales come from Yahweh; all the weights in the bag are his work.
+PRO 16:12 Doing evil is an abomination to kings, for a throne is established by doing what is right.
+PRO 16:13 Righteous lips are the delight of the king, and he loves the person who speaks upright words.
+PRO 16:14 A king's wrath is a messenger of death but a wise man will try to calm his anger.
+PRO 16:15 In the light of a king's face is life and his favor is like a cloud that brings a spring rain.
+PRO 16:16 How much better it is to get wisdom than gold. To get understanding should be chosen more than silver.
+PRO 16:17 The highway of the upright turns away from evil; the one who guards his way preserves his life.
+PRO 16:18 Pride comes before destruction and a haughty spirit before a downfall.
+PRO 16:19 It is better to be of humble spirit among poor people than to divide the plunder with proud people.
+PRO 16:20 Whoever contemplates what they are taught will find what is good, and those who trust in Yahweh will be blessed.
+PRO 16:21 The one who is wise in heart is called discerning and sweetness of speech improves the ability to teach.
+PRO 16:22 Understanding is a fountain of life to the one who has it, but the instruction of fools is their foolishness.
+PRO 16:23 The heart of a wise person gives insight to his mouth and adds persuasiveness to his lips.
+PRO 16:24 Pleasant words are a honeycomb— sweet to the soul and healing to the bones.
+PRO 16:25 There is a way that seems right to a man, but its end is the way to death.
+PRO 16:26 The laborer's appetite works for him; his hunger urges him on.
+PRO 16:27 A worthless person digs up mischief and his speech is like a scorching fire.
+PRO 16:28 A perverse person stirs up conflict and a gossip separates close friends.
+PRO 16:29 A man of violence lies to his neighbor and leads him down a path that is not good.
+PRO 16:30 The one who winks the eye is plotting perverse things; those who purse the lips will bring evil to pass.
+PRO 16:31 Gray hair is a crown of glory; it is gained by living the right way.
+PRO 16:32 It is better to be slow to anger than to be a warrior and one who rules his spirit is stronger than one who conquers a city.
+PRO 16:33 The lots are cast into the lap, but the decision is from Yahweh.
+PRO 17:1 It is better to have quiet with a dry morsel of bread than a house full of feasting with strife.
+PRO 17:2 A wise servant will rule over a son who acts shamefully and will share the inheritance as one of the brothers.
+PRO 17:3 The crucible is for silver and the furnace is for gold, but Yahweh tests hearts.
+PRO 17:4 The evildoer pays attention to wicked lips; a liar gives ear to a destructive tongue.
+PRO 17:5 Whoever mocks the poor insults his Maker and the one who rejoices at misfortune will not go unpunished.
+PRO 17:6 Grandchildren are the crown of the aged and parents bring honor to their children.
+PRO 17:7 Eloquent speech is not suitable for a fool; much less are lying lips suitable for a prince.
+PRO 17:8 A bribe is like a magic stone to the one who gives it; wherever he turns, he succeeds.
+PRO 17:9 Whoever overlooks an offense seeks love, but the one who repeats a matter alienates close friends.
+PRO 17:10 A rebuke goes deeper into a person who has understanding than a hundred blows go into a fool.
+PRO 17:11 An evil person only seeks rebellion, so a cruel messenger will be sent against him.
+PRO 17:12 It is better to meet a bear robbed of her cubs than to meet a fool in his foolishness.
+PRO 17:13 When someone returns evil for good, evil will never leave his house.
+PRO 17:14 The beginning of conflict is like one who releases water everywhere, so walk away from the dispute before it has broken out.
+PRO 17:15 The person who acquits the wicked person and the person who condemns the righteous person— both are an abomination to Yahweh.
+PRO 17:16 Why should a fool pay money to learn about wisdom when he has no sense?
+PRO 17:17 A friend is loving at all times and a brother is born for times of trouble.
+PRO 17:18 A man having no sense makes binding promises and becomes responsible for his neighbor's debts.
+PRO 17:19 Whoever loves conflict loves sin; whoever raises his door seeks destruction.
+PRO 17:20 A person who has a crooked heart finds nothing that is good; the one who has a perverse tongue falls into calamity.
+PRO 17:21 Whoever is the parent of a fool brings grief to himself; and the father of a fool has no joy.
+PRO 17:22 A joyful heart is good medicine, but a broken spirit dries up the bones.
+PRO 17:23 A wicked man accepts a secret bribe to pervert the ways of justice.
+PRO 17:24 The one who has understanding sets his face toward wisdom, but the eyes of a fool are set on the ends of the earth.
+PRO 17:25 A foolish son is a grief to his father and bitterness to the woman who bore him.
+PRO 17:26 Also, it is never good to punish the righteous; neither is it good to flog the noble for their integrity.
+PRO 17:27 One who has knowledge uses few words and he who is cool of spirit has understanding.
+PRO 17:28 Even a fool is thought to be wise if he keeps silent; when he keeps his mouth shut, he is considered to be intelligent.
+PRO 18:1 One who isolates himself seeks his own desire, and he quarrels with all sound wisdom.
+PRO 18:2 A fool finds no pleasure in understanding, but only in revealing what is in his own heart.
+PRO 18:3 When a wicked person comes, contempt comes with him— along with shame and disgrace.
+PRO 18:4 The words of a man's mouth are deep waters; the fountain of wisdom is a flowing stream.
+PRO 18:5 It is not good to be partial to the wicked person, nor to deny justice to the righteous person.
+PRO 18:6 A fool's lips bring him conflict and his mouth invites a beating.
+PRO 18:7 A fool's mouth is his ruin and he ensnares himself with his lips.
+PRO 18:8 The words of a gossip are like delicious morsels and they go down into the inner parts of the body.
+PRO 18:9 Also, one who is slack in his work is a brother to the one who destroys the most.
+PRO 18:10 The name of Yahweh is a strong tower; the righteous person runs into it and is safe.
+PRO 18:11 The wealth of the rich is his fortified city and in his imagination it is like a high wall.
+PRO 18:12 Before his downfall a person's heart is proud, but humility comes before honor.
+PRO 18:13 One who answers before listening— it is his folly and shame.
+PRO 18:14 A person's spirit will endure sickness, but who can bear a broken spirit?
+PRO 18:15 The heart of the intelligent acquires knowledge and the hearing of the wise seeks it out.
+PRO 18:16 A man's gift may open the way and bring him before great men.
+PRO 18:17 The first to plead his case seems just until his opponent comes and examines him.
+PRO 18:18 Casting the lot settles disputes and separates strong opponents.
+PRO 18:19 An offended brother is harder to be won than a strong city, and quarrels are like the bars of a castle.
+PRO 18:20 From the fruit of his mouth one's stomach is filled; with the harvest of his lips he is satisfied.
+PRO 18:21 Death and life are controlled by the tongue, and those who love the tongue will eat its fruit.
+PRO 18:22 He who finds a wife finds a good thing and receives favor from Yahweh.
+PRO 18:23 A poor person pleads for mercy, but a rich person answers harshly.
+PRO 18:24 The one who claims many friends is brought to ruin by them, but there is a friend who comes closer than a brother.
+PRO 19:1 Better is a poor person who walks in his integrity than one who is perverse in speech and is a fool.
+PRO 19:2 Also, it is not good to have desire without knowledge and the one who runs too fast misses the path.
+PRO 19:3 A person's folly ruins his life and his heart rages against Yahweh.
+PRO 19:4 Wealth adds many friends, but a poor person is separated from his friends.
+PRO 19:5 A false witness will not go unpunished and he who breathes out lies will not escape.
+PRO 19:6 Many will ask for a favor from a generous person and everyone is a friend of the one who gives gifts.
+PRO 19:7 All the brothers of a poor man hate him; how much more do his friends who go far away from him! He pursues them with words, but they are gone.
+PRO 19:8 He who gets wisdom loves his own life; he who keeps understanding will find what is good.
+PRO 19:9 A false witness will not go unpunished, but the one who breathes out lies will perish.
+PRO 19:10 It is not fitting for a fool to live in luxury— much less for a slave to rule over princes.
+PRO 19:11 Discretion makes a person slow to anger and it is his glory to overlook an offense.
+PRO 19:12 The wrath of the king is like the roaring of a young lion, but his favor is like dew on the grass.
+PRO 19:13 A foolish son is ruin to his father and a quarreling wife is a constant dripping of water.
+PRO 19:14 A house and wealth are inherited from parents, but a prudent wife is from Yahweh.
+PRO 19:15 Laziness throws a person into a deep sleep, but the one not willing to work will go hungry.
+PRO 19:16 The one who obeys the command guards his life, but the one who despises his ways will die.
+PRO 19:17 Whoever is gracious to the poor lends to Yahweh and he will repay him for what he has done.
+PRO 19:18 Discipline your son while there is hope and do not set your desire on putting him to death.
+PRO 19:19 A person with great anger must bear the penalty; if you rescue him, you will have to do it a second time.
+PRO 19:20 Listen to advice and accept instruction, so you may become wise by the end of your life.
+PRO 19:21 Many are the plans in a person's heart, but it is the purpose of Yahweh that will stand.
+PRO 19:22 Loyalty is what a person desires and a poor person is better than a liar.
+PRO 19:23 Honor for Yahweh leads people to life; anyone who has it will rest satisfied and not afflicted by harm.
+PRO 19:24 The lazy person buries his hand in the dish; he will not even bring it back up to his mouth.
+PRO 19:25 Strike a mocker, and the naive person will become prudent; discipline one who is discerning, and he will gain knowledge.
+PRO 19:26 The one who robs his father and drives his mother away is a son who brings shame and disgrace.
+PRO 19:27 If you cease to hear instruction, my son, you will stray from the words of knowledge.
+PRO 19:28 A corrupt witness mocks justice and the mouth of the wicked swallows iniquity.
+PRO 19:29 Judgments are ready for mockers and flogging for the backs of fools.
+PRO 20:1 Wine is a mocker and strong drink is a brawler; whoever is led astray by drink is not wise.
+PRO 20:2 The fear of a king is like the fear of a young lion that is roaring; the one who makes him angry forfeits his life.
+PRO 20:3 It is an honor for anyone to avoid conflict, but every fool jumps into an argument.
+PRO 20:4 The lazy person does not plow in autumn; he seeks a crop at harvest time but will have nothing.
+PRO 20:5 The purpose in a human heart is like deep water, but someone with understanding will draw it out.
+PRO 20:6 Many a person proclaims he is loyal, but who can find one who is faithful?
+PRO 20:7 The righteous person walks in his integrity, and his sons who follow after him will be blessed.
+PRO 20:8 A king who sits on the throne performing the duties of a judge is winnowing with his eyes all the evil that is before him.
+PRO 20:9 Who can say, "I have kept my heart pure; I am clean from my sin"?
+PRO 20:10 Differing weights and unequal measures— both are abominations to Yahweh.
+PRO 20:11 Even a youth is known by his actions, by whether his conduct is pure and upright.
+PRO 20:12 Ears that hear and eyes that see— Yahweh made them both.
+PRO 20:13 Do not love sleep or you will come to poverty; open your eyes and you will have plenty to eat.
+PRO 20:14 "Bad! Bad!" says the buyer, but when he goes away he boasts.
+PRO 20:15 There is gold and an abundance of costly stones, but lips of knowledge are a precious jewel.
+PRO 20:16 Take a garment of one who has put up security for a stranger, and hold it in pledge when he puts up security for an immoral woman.
+PRO 20:17 Bread gained by deceit tastes sweet, but afterward his mouth will be full of gravel.
+PRO 20:18 Plans are established by advice and only with wise guidance should you wage war.
+PRO 20:19 A slanderer reveals secrets, and so you should not associate with people who talk too much.
+PRO 20:20 If a person curses his father or his mother, his lamp will be put out in the middle of darkness.
+PRO 20:21 An inheritance gained quickly at the beginning will not be blessed in the end.
+PRO 20:22 Do not say, "I will pay you back for this wrong!" Wait for Yahweh and he will rescue you.
+PRO 20:23 Unequal weights are an abomination to Yahweh, and deceptive scales are not good.
+PRO 20:24 A person's steps are directed by Yahweh; how then can he understand his way?
+PRO 20:25 It is a snare for a person to say rashly, "This thing is holy," and begin to think about what it means only after making his vow.
+PRO 20:26 A wise king winnows the wicked and he turns a threshing wheel over them.
+PRO 20:27 The spirit of a person is the lamp of Yahweh, searching all his inmost parts.
+PRO 20:28 Steadfast love and faithfulness preserve the king; he makes his throne strong by love.
+PRO 20:29 The glory of young men is their strength and the splendor of old people is their gray hair.
+PRO 20:30 Blows that make a wound cleanse away evil and beatings make the innermost parts clean.
+PRO 21:1 The king's heart is a stream of water in the hand of Yahweh; he turns it wherever he pleases.
+PRO 21:2 Every person's way is right in his own eyes, but it is Yahweh who weighs the hearts.
+PRO 21:3 To do what is right and just is more acceptable to Yahweh than sacrifice.
+PRO 21:4 Haughty eyes and a proud heart— the lamp of the wicked—are sin.
+PRO 21:5 The plans of the diligent lead only to prosperity, but everyone who acts too quickly comes only to poverty.
+PRO 21:6 Acquiring treasures by a lying tongue is a fleeting vapor and a deadly snare.
+PRO 21:7 The violence of the wicked will drag them away, for they refuse to do what is just.
+PRO 21:8 The way of a guilty person is crooked, but the one who is pure does what is right.
+PRO 21:9 It is better to live on a corner of the roof than in a house shared with a quarrelsome wife.
+PRO 21:10 The appetite of the wicked craves evil; his neighbor finds no favor in his eyes.
+PRO 21:11 When the mocker is punished, the naive become wise, and when the wise person is instructed, he lays hold of knowledge.
+PRO 21:12 The righteous person watches the house of the wicked person; he brings wicked people to disaster.
+PRO 21:13 The one who shuts his ears to the cry of the poor, he also will cry out, but he will not be answered.
+PRO 21:14 A gift in secret appeases anger and a concealed gift appeases strong wrath.
+PRO 21:15 When justice is done, it brings joy to the righteous person, but it brings terror to workers of iniquity.
+PRO 21:16 The one who wanders from the way of understanding, he will rest in the assembly of the dead.
+PRO 21:17 Whoever loves pleasure will become poor; the one who loves wine and oil will not be rich.
+PRO 21:18 A wicked person is ransom for the righteous, and the treacherous person is ransom for the upright.
+PRO 21:19 It is better to live in the desert than with a quarreling and angry wife.
+PRO 21:20 Desirable treasure and oil are kept in the dwelling of the wise, but a foolish person swallows it all up.
+PRO 21:21 The one who does right and is kind— this person finds life, righteousness, and honor.
+PRO 21:22 A wise man scales the city of the mighty ones, and he brings down the stronghold in which they trusted.
+PRO 21:23 Whoever guards his mouth and tongue keeps himself out of trouble.
+PRO 21:24 The proud and haughty person—"Mocker" is his name— acts with arrogant pride.
+PRO 21:25 The desire of the lazy person kills him, for his hands refuse to work.
+PRO 21:26 All day long he craves and craves more, but the righteous person gives and does not hold back.
+PRO 21:27 The sacrifice of the wicked is an abomination; it is even more detestable when he brings it with evil motives.
+PRO 21:28 A false witness will perish, but the one who listens will speak for all time.
+PRO 21:29 A wicked man makes his face hard, but the upright is certain about his ways.\f + \ft Some ancient copies of the Hebrew text have \fqa but the upright thinks about his way\fqa*. \f*
+PRO 21:30 There is no wisdom, there is no understanding, and there is no advice that can stand against Yahweh.
+PRO 21:31 The horse is prepared for the day of battle, but the victory belongs to Yahweh.
+PRO 22:1 A good name is to be chosen over great riches and favor is better than silver and gold.
+PRO 22:2 Rich and poor people have this in common— Yahweh is the maker of all of them.
+PRO 22:3 The prudent sees trouble and hides himself, but the naive go on and suffer because of it.
+PRO 22:4 The reward for humility and fear of Yahweh is riches, honor, and life.
+PRO 22:5 Thorns and snares lie in the path of the perverse; whoever guards his life will keep far from them.
+PRO 22:6 Teach a child the way he should go and when he is old he will not turn away from that instruction.
+PRO 22:7 Rich people rule over poor people and one who borrows is a slave to the one who lends.
+PRO 22:8 He who sows injustice will reap trouble and the rod of his fury will fade away.
+PRO 22:9 The one who has a generous eye will be blessed, for he shares his bread with the poor.
+PRO 22:10 Drive away the mocker, and out goes strife; disputes and dishonor will cease.
+PRO 22:11 The one who loves a pure heart and whose speech is gracious, he will have the king for his friend.
+PRO 22:12 The eyes of Yahweh keep watch over knowledge, but he overthrows the words of the treacherous.
+PRO 22:13 The lazy person says, "There is a lion in the street! I will be killed in the open places."
+PRO 22:14 The mouth of an adulteress is a deep pit; Yahweh's anger is stirred up against anyone who falls into it.
+PRO 22:15 Foolishness is bound up in the heart of a child, but the rod of discipline drives it far away.
+PRO 22:16 The one who oppresses poor people to increase his wealth, or gives to rich people, will come to poverty.
+PRO 22:17 Incline your ear and listen to the words of the wise and apply your heart to my knowledge,
+PRO 22:18 for it will be pleasant for you if you keep them within you, if all of them are ready on your lips.
+PRO 22:19 So your trust may be in Yahweh, I teach them to you today—even to you.
+PRO 22:20 Have I not written for you thirty sayings of instruction and knowledge,
+PRO 22:21 to teach you truth in these trustworthy words, so you may give trustworthy answers to those who sent you?
+PRO 22:22 Do not rob the poor because he is poor, or crush the needy at the gate,
+PRO 22:23 for Yahweh will plead their case, and he will rob of life those who robbed them.
+PRO 22:24 Do not make a friend of someone who is ruled by anger and you must not go with one who rages,
+PRO 22:25 or you will learn his ways and entangle yourself in a snare.
+PRO 22:26 Do not be one who strikes hands in making a pledge, or who puts up security for debts.
+PRO 22:27 If you lack the means to pay, what could stop someone from taking away your bed from under you?
+PRO 22:28 Do not remove the ancient boundary stone that your fathers have set.
+PRO 22:29 Do you see a man skilled at his work? He will stand before kings; he will not stand before common people.
+PRO 23:1 When you sit to eat with a ruler, observe carefully what is before you,
+PRO 23:2 and put a knife to your throat if you are a person who likes to eat a lot of food.
+PRO 23:3 Do not crave his delicacies, for it is the food of lies.
+PRO 23:4 Do not work too hard to gain wealth; be wise enough to know when to stop.
+PRO 23:5 Will you let your eyes light upon it? It will be gone, for it will surely take up wings like an eagle and fly off to the sky.
+PRO 23:6 Do not eat the food of one with an evil eye— and do not crave his delicacies,
+PRO 23:7 for he is the kind of man who counts the price of the food. "Eat and drink!" he says to you, but his heart is not with you.
+PRO 23:8 You will vomit up the little you have eaten and you will have wasted your compliments.
+PRO 23:9 Do not speak in the hearing of a fool, for he will despise the wisdom of your words.
+PRO 23:10 Do not move an ancient boundary stone or encroach on the fields of orphans,
+PRO 23:11 for their Redeemer is strong and he will plead their case against you.
+PRO 23:12 Apply your heart to instruction and your ears to words of knowledge.
+PRO 23:13 Do not withhold instruction from a child, for if you beat him with the rod, he will not die.
+PRO 23:14 It is you who must beat him with the rod and save his soul from Sheol.
+PRO 23:15 My son, if your heart is wise, then my heart also will be glad;
+PRO 23:16 my kidneys will rejoice when your lips speak what is right.
+PRO 23:17 Do not let your heart envy sinners, but continue in the fear of Yahweh all the day.
+PRO 23:18 Surely there is a future and your hope will not be cut off.
+PRO 23:19 Hear—you!—my son, and be wise and direct your heart in the way.
+PRO 23:20 Do not associate with those who drink much wine, or with gluttonous eaters of meat,
+PRO 23:21 for the drunkard and the glutton become poor and slumber will clothe them with rags.
+PRO 23:22 Listen to your father who begot you and do not despise your mother when she is old.
+PRO 23:23 Buy the truth, but do not sell it; buy wisdom, instruction, and understanding.
+PRO 23:24 The father of the righteous person will greatly rejoice, and he who begets a wise child will be glad in him.
+PRO 23:25 Let your father and your mother be glad and let her who bore you rejoice.
+PRO 23:26 My son, give me your heart and let your eyes observe my ways.
+PRO 23:27 For a prostitute is a deep pit, and an immoral woman is a narrow well.
+PRO 23:28 She lies in wait like a robber and she increases the number of the treacherous among humanity.
+PRO 23:29 Who has woe? Who has sorrow? Who has strife? Who has complaining? Who has wounds for no reason? Who has bloodshot eyes?
+PRO 23:30 Those who linger over wine, those who try the mixed wine.
+PRO 23:31 Do not look at the wine when it is red, when it sparkles in the cup and goes down smoothly.
+PRO 23:32 In the last it bites like a serpent and it stings like an adder.
+PRO 23:33 Your eyes will see strange things and your heart will utter perverse things.
+PRO 23:34 You will be as one who sleeps on the high seas or lies down on the top of a mast.
+PRO 23:35 "They hit me," you will say, "but I was not hurt. They beat me, but I did not feel it. When will I wake up? I will seek another drink."
+PRO 24:1 Do not be envious of those who are evil, nor desire to associate with them,
+PRO 24:2 because their hearts plot violence and their lips talk about trouble.
+PRO 24:3 Through wisdom a house is built and by understanding it is established.
+PRO 24:4 By knowledge the rooms are filled with all precious and pleasant riches.
+PRO 24:5 A warrior of wisdom is strong, and a man of knowledge increases his strength;
+PRO 24:6 for with guidance you can wage your war and with many advisors there is victory.
+PRO 24:7 Wisdom is too high for a fool; in the gate he does not open his mouth.
+PRO 24:8 There is one who plans to do evil— people call him a master of schemes.
+PRO 24:9 A foolish plan is sin and a mocker is an abomination to people.
+PRO 24:10 If you become weak with fear in the day of trouble, then your strength is small.
+PRO 24:11 Rescue those who are being taken away to death and hold back those who are staggering to the slaughter.
+PRO 24:12 If you say, "Behold, we knew nothing about this," does not the one who weighs the heart understand what you are saying? The one who guards your life, does he not know it? Will God not give to each one what he deserves?
+PRO 24:13 My son, eat honey because it is good, because the drippings of the honeycomb are sweet to your taste.
+PRO 24:14 Such is wisdom for your soul— if you find it, there will be a future and your hope will not be cut off.
+PRO 24:15 Do not lie in wait like the wicked person who attacks the house of the righteous person. Do not destroy his home!
+PRO 24:16 For the righteous person falls down seven times and rises again, but wicked people stumble at calamity.
+PRO 24:17 Do not rejoice when your enemy falls and let not your heart be glad when he stumbles,
+PRO 24:18 or Yahweh will see and disapprove and turn away his wrath from him.
+PRO 24:19 Do not be angry because of evildoers, and do not envy wicked people,
+PRO 24:20 for the evil person has no future and the lamp of wicked people will go out.
+PRO 24:21 Fear Yahweh, and fear the king, my son; do not associate with those who rebel against them,
+PRO 24:22 for suddenly their disaster will come, and who knows the extent of the destruction that will come from both of them?
+PRO 24:23 These also are sayings of the wise. Partiality in judging a case at law is not good.
+PRO 24:24 Whoever says to the wicked person, "You are a righteous person," will be cursed by peoples and abhorred by nations.
+PRO 24:25 But those who discipline the wicked will have delight and gifts of goodness will come to them.
+PRO 24:26 The one who gives a straight answer gives a kiss on the lips.
+PRO 24:27 Prepare your outdoor work, and make everything ready for yourself in the field; after that, build your house.
+PRO 24:28 Do not bear witness against your neighbor without cause and do not deceive with your lips.
+PRO 24:29 Do not say, "I will do to him what he has done to me; I will pay him back for what he has done."
+PRO 24:30 I went by the field of a lazy person, past the vineyard of the man having no sense.
+PRO 24:31 Thorns had grown up everywhere, the ground was covered with nettles, and its stone wall was broken down.
+PRO 24:32 Then I saw and considered it; I looked and received instruction.
+PRO 24:33 A little sleep, a little slumber, a little folding of the hands to rest—
+PRO 24:34 and poverty comes marching upon you, and your needs like an armed soldier.
+PRO 25:1 These are more proverbs of Solomon, copied by the men of Hezekiah, king of Judah.
+PRO 25:2 It is the glory of God to conceal a matter, but the glory of kings to search it out.
+PRO 25:3 Like the heavens are for height and the earth is for depth, so the heart of kings is unsearchable.
+PRO 25:4 Remove the dross from the silver and a metal worker can use the silver in his craft.
+PRO 25:5 Even so, remove wicked people from the presence of the king and his throne will be established by doing what is right.
+PRO 25:6 Do not honor yourself in the king's presence and do not stand in the place designated for great people.
+PRO 25:7 It is better for him to say to you, "Come up here," than for him to humiliate you before a nobleman. What you have witnessed,
+PRO 25:8 do not bring quickly to trial. For what will you do in the end when your neighbor puts you to shame?
+PRO 25:9 Argue your case between you and your neighbor himself and do not reveal another's secret,
+PRO 25:10 or else the one who hears you will bring shame upon you and an evil report about you that cannot be silenced.
+PRO 25:11 Apples of gold in settings of silver is a word spoken in the right situation.
+PRO 25:12 A gold ring or jewelry made of fine gold is a wise rebuke to a listening ear.
+PRO 25:13 Like the cold of snow at harvest time is a faithful messenger for those who sent him; he brings back the life of his masters.
+PRO 25:14 Clouds and wind without rain is the one who boasts about a gift he does not give.
+PRO 25:15 With patience a ruler can be persuaded and a soft tongue can break a bone.
+PRO 25:16 If you find honey, eat just enough— otherwise, having too much of it, you vomit it up.
+PRO 25:17 Do not set your foot in your neighbor's house too often; he may become tired of you and hate you.
+PRO 25:18 A man who bears false witness against his neighbor is like a club used in war, or a sword, or a sharp arrow.
+PRO 25:19 An unfaithful man in whom you trust in a time of trouble is like a bad tooth or a foot that slips.
+PRO 25:20 Like a person who takes off a garment in cold weather, or like vinegar poured upon carbonate of soda, is the one who sings songs to a heavy heart.
+PRO 25:21 If your enemy is hungry, give him food to eat, and if he is thirsty, give him water to drink,
+PRO 25:22 for you will shovel coals of fire on his head and Yahweh will reward you.
+PRO 25:23 As surely as the north wind brings rain, so a tongue that tells secrets will result in angry faces.
+PRO 25:24 It is better to live on a corner of the roof than in a house shared with a quarreling wife.
+PRO 25:25 Like cold waters to one who is thirsty, so is good news from a far country.
+PRO 25:26 Like a fouled spring or a ruined fountain is a righteous person tottering before wicked people.
+PRO 25:27 It is not good to eat too much honey; that is like searching for honor after honor.\f + \ft Many modern translations have different interpretations of this difficult verse. \f*
+PRO 25:28 A person without self-control is like a city breached and without walls.
+PRO 26:1 Like snow in summer or rain in harvest, so a fool does not deserve honor.
+PRO 26:2 As the sparrow flutters and the swallow darts when they fly, so an undeserved curse does not alight.
+PRO 26:3 A whip is for the horse, a bridle is for the donkey and a rod is for the back of fools.
+PRO 26:4 Do not answer a fool according to his folly, or you will become like him.
+PRO 26:5 Answer a fool and join in on his folly, so he will not become wise in his own eyes.
+PRO 26:6 Whoever sends a message by the hand of a fool cuts off his own feet and drinks violence.
+PRO 26:7 Like the legs of a paralytic which hang down is a proverb in the mouth of fools.
+PRO 26:8 Like tying a stone in a sling is giving honor to a fool.
+PRO 26:9 Like a thorn that goes into the hand of a drunkard is a proverb in the mouth of fools.
+PRO 26:10 Like an archer who wounds all those around him is one who hires a fool or hires anyone who passes by.
+PRO 26:11 As a dog returns to his own vomit, so is a fool who repeats his folly.
+PRO 26:12 Do you see someone who is wise in his own eyes? There is more hope for a fool than for him.
+PRO 26:13 The lazy person says, "There is a lion on the road! There is a lion between the open places!"
+PRO 26:14 As the door turns on its hinges, so is the lazy person upon his bed.
+PRO 26:15 The lazy person puts his hand into the dish and yet he has no strength to lift it up to his mouth.
+PRO 26:16 The lazy person is wiser in his own eyes than seven men who respond with good judgment.
+PRO 26:17 Like one who takes hold of the ears of a dog is a passerby who becomes angry at a dispute that is not his own.
+PRO 26:18 Like a madman who throws firebrands, arrows, and death
+PRO 26:19 is the one who deceives his neighbor and says, "Was I not telling a joke?"
+PRO 26:20 For lack of wood, the fire goes out; and where there is no gossiper, quarreling ceases.
+PRO 26:21 As charcoal is to burning coals and wood is to fire, so is a quarrelsome person for kindling strife.
+PRO 26:22 The words of a gossip are like delicious morsels; they go down into the inner parts of the body.
+PRO 26:23 Like the glaze overlaying an earthen vessel, so are burning lips and an evil heart.
+PRO 26:24 One who hates others disguises his feelings with his lips and he lays up deceit within himself.
+PRO 26:25 He will speak graciously, but do not believe him, for there are seven abominations in his heart.
+PRO 26:26 Though his hatred is covered with deception, his wickedness will be revealed in the assembly.
+PRO 26:27 Whoever digs a pit will fall into it and the stone will roll back on the one who pushed it.
+PRO 26:28 A lying tongue hates the people it crushes and a flattering mouth brings about ruin.
+PRO 27:1 Do not boast about tomorrow, for you do not know what a day may bring.
+PRO 27:2 Let someone else praise you and not your own mouth; a stranger and not your own lips.
+PRO 27:3 Consider the heaviness of a stone and the weight of sand— the provocation of a fool is heavier than both.
+PRO 27:4 There is the cruelty of rage and the flood of anger, but who is able to stand before jealousy?
+PRO 27:5 Better is a rebuke that is clearly seen than hidden love.
+PRO 27:6 Faithful are the wounds caused by a friend, but many are the kisses of an enemy.
+PRO 27:7 A person who has eaten to the full rejects even a honeycomb, but to the hungry person, every bitter thing is sweet.
+PRO 27:8 Like a bird that wanders from its nest is a man who strays from where he lives.
+PRO 27:9 Perfume and incense make the heart rejoice, but the sweetness of a friend comes from his sincere counsel.\f + \ft Many modern translations have different interpretations of this difficult verse. \f*
+PRO 27:10 Do not abandon your friend and your friend's father, and do not go to your brother's house on the day of your calamity. Better is a neighbor who is nearby than a brother who is far away.
+PRO 27:11 Be wise, my son, and make my heart rejoice; then I will give back an answer to the one who mocks me.
+PRO 27:12 The prudent sees trouble and hides himself, but the naive go on and suffer for it.
+PRO 27:13 Take a garment of one who has put up security for a stranger, and hold it in pledge when he puts up security for an immoral woman.
+PRO 27:14 Whoever gives his neighbor a blessing with a loud voice early in the morning, that blessing will be considered to be a curse!
+PRO 27:15 A quarreling wife is like the constant dripping on a rainy day;
+PRO 27:16 restraining her is like restraining the wind, or trying to catch oil in your right hand.
+PRO 27:17 Iron sharpens iron; in the same way, a man sharpens his friend.
+PRO 27:18 The one who tends a fig tree will eat its fruit, and the one who protects his master will be honored.
+PRO 27:19 Just as water reflects a person's face, so a person's heart reflects the person.
+PRO 27:20 Just as Sheol and Abaddon are never satisfied, so a man's eyes are never satisfied.
+PRO 27:21 A crucible is for silver and a furnace is for gold; and a person is tested when he is praised.
+PRO 27:22 Even if you crush a fool with the pestle—along with the grain— yet his foolishness will not leave him.
+PRO 27:23 Be sure you know the condition of your flocks and be concerned about your herds,
+PRO 27:24 for wealth is not forever. Does a crown endure for all generations?
+PRO 27:25 You should know when the hay is gone and the new growth appears, and the time when the grass from the hills is gathered in.
+PRO 27:26 Those lambs will provide your clothing and the goats will provide the price of the field.
+PRO 27:27 There will be goats' milk for your food —the food for your household— and nourishment for your servant girls.
+PRO 28:1 The wicked people run away when no one chases them, but righteous people are as bold as a young lion.
+PRO 28:2 Because of the transgression of a land, it has many rulers, but with a man of understanding and knowledge, it will last a long time.
+PRO 28:3 A poor person who oppresses other poor people is like a beating rain that leaves no food.
+PRO 28:4 Those who abandon the law praise wicked people, but those who keep the law fight against them.
+PRO 28:5 Evil men do not understand justice, but those who seek Yahweh understand everything.
+PRO 28:6 It is better for a poor person who walks in his integrity than for a rich person who is crooked in his ways.
+PRO 28:7 He who keeps the law is a son who has understanding, but one who is a companion of gluttons shames his father.
+PRO 28:8 The one who makes his fortune by usury and interest gathers his wealth for another who will be gracious to the poor.
+PRO 28:9 If one turns away his ear from hearing the law, even his prayer is an abomination.
+PRO 28:10 Whoever misleads the upright into an evil way will fall into his own pit, but the blameless will have a good inheritance.
+PRO 28:11 The rich person may be wise in his own eyes, but a poor person who has understanding will find him out.
+PRO 28:12 When the righteous triumph, there is great glory; but when the wicked arise, people are sought out.
+PRO 28:13 The one who hides his sins will not prosper, but the one who confesses them and abandons them will be shown mercy.
+PRO 28:14 The one who always lives with reverence is blessed, but whoever hardens his heart will fall into trouble.
+PRO 28:15 Like a roaring lion or a charging bear is a wicked ruler over poor people.
+PRO 28:16 The ruler who lacks understanding is a cruel oppressor, but the one who hates unjust gain will prolong his days.
+PRO 28:17 If a man is burdened with a person's blood, he will be a fugitive until death and no one will help him.
+PRO 28:18 Whoever walks with integrity will be kept safe, but the one whose way is crooked will suddenly fall.
+PRO 28:19 The one who works his land will have plenty of food, but whoever follows worthless pursuits will have plenty of poverty.
+PRO 28:20 A faithful man will have great blessings, but the one who gets rich quickly will not go unpunished.
+PRO 28:21 It is not good to show partiality, but for a piece of bread a man will do wrong.
+PRO 28:22 A stingy man hurries after riches, but he does not know that poverty will come upon him.
+PRO 28:23 Whoever disciplines someone, afterward will find more favor from him than from the one who flatters him with his tongue.
+PRO 28:24 Whoever robs his father and his mother and says, "That is no sin," he is the companion of the one who destroys.
+PRO 28:25 A greedy man stirs up conflict, but the one who trusts in Yahweh will prosper.
+PRO 28:26 One who trusts in his own heart is a fool, but whoever walks in wisdom will be delivered.
+PRO 28:27 The one who gives to the poor will lack nothing, but whoever closes his eyes to them will receive many curses.
+PRO 28:28 When the wicked arise, people hide themselves; but when they perish, the righteous increase.
+PRO 29:1 A person who has received many rebukes but who stiffens his neck will be broken in a moment beyond healing.
+PRO 29:2 When righteous people increase, the people rejoice, but when a wicked person is the ruler, the people sigh.
+PRO 29:3 Whoever loves wisdom makes his father rejoice, but he who keeps company with prostitutes destroys his wealth.
+PRO 29:4 The king establishes the land by justice, but the one who demands bribes throws it down.
+PRO 29:5 A man who flatters his neighbor is spreading a net for his feet.
+PRO 29:6 In the sin of an evil person is a trap, but the righteous person sings and rejoices.
+PRO 29:7 The righteous person knows the rights of the poor; the wicked person does not understand such knowledge.
+PRO 29:8 Mockers set a city on fire, but those who are wise turn away wrath.
+PRO 29:9 When a wise person has a legal dispute with a fool, he rages and laughs, and there will be no rest.
+PRO 29:10 Men of bloodshed hate the one who is blameless and seek the life of the upright.
+PRO 29:11 A fool brings forth all his spirit, but a wise man soothes it back.
+PRO 29:12 If a ruler pays attention to lies, all his officials will be wicked.
+PRO 29:13 The poor person and the oppressor are similar, for Yahweh gives light to the eyes of them both.
+PRO 29:14 If a king judges the poor by the truth, his throne will be established forever.
+PRO 29:15 The rod and correction give wisdom, but a child freed from discipline puts his mother to shame.
+PRO 29:16 When wicked people are in power, transgression increases, but righteous people will see the downfall of those wicked people.
+PRO 29:17 Discipline your son and he will give you rest; he will bring delight into your life.
+PRO 29:18 Where there is no prophetic vision the people run wild, but the one who keeps the law is blessed.
+PRO 29:19 A slave will not be corrected by words, for though he understands, there will be no response.
+PRO 29:20 Do you see a man who is hasty in his words? There is more hope for a fool than for him.
+PRO 29:21 One who pampers his slave from youth, at the end of it there will be trouble.
+PRO 29:22 An angry person stirs up strife and a master of rage commits many sins.
+PRO 29:23 A person's pride brings him low, but one who has a humble spirit will be given honor.
+PRO 29:24 One who shares with a thief hates his own life; he hears the curse and says nothing.
+PRO 29:25 The fear of man makes a snare, but the one who trusts in Yahweh will be protected.
+PRO 29:26 Many are those who seek the face of the ruler, but from Yahweh is justice for a person.
+PRO 29:27 An unjust man is an abomination to righteous people, but the one whose way is upright is an abomination to the wicked person.
+PRO 30:1 The words of Agur son of Jakeh—the burden. This man declares to Ithiel, to Ithiel and Ucal:\f + \ft The second line of some ancient Greek translations of the ancient Hebrew reads \fqa This man declares: I am weary. I am weary and helpless. \fqa* They appear to have translated the Hebrew names \fqa Ithiel \fqa* and \fqa Ucal \fqa* into the Greek as \fqa weary \fqa* and \fqa helpless\fqa*. \f*
+PRO 30:2 Surely I am more like an animal than any human, and I do not have the understanding of a human being.
+PRO 30:3 I have not learned wisdom, nor do I have knowledge of the Holy One.
+PRO 30:4 Who has gone up to heaven and come down? Who has gathered up the wind in the hollow of his hands? Who has wrapped up the waters in a cloak? Who has established all the ends of the earth? What is his name, and what is the name of his son? Surely you know!
+PRO 30:5 Every word of God is tested; he is a shield to those who take refuge in him.
+PRO 30:6 Do not add to his words, or he will discipline you, and you will be proved to be a liar.
+PRO 30:7 Two things I ask of you; do not withhold them from me before I die:
+PRO 30:8 Put vanity and lies far away from me. Give me neither poverty nor riches, just let me eat the food that is my portion.
+PRO 30:9 For if I have too much, I might deny you and say, "Who is Yahweh?" Or if I become poor, I might steal and profane the name of my God.
+PRO 30:10 Do not slander a slave before his master, or he will curse you and you will be held guilty.
+PRO 30:11 There is a generation that curses their father and does not bless their mother.
+PRO 30:12 There is a generation that is pure in their own eyes, and yet they are not washed of their filth.
+PRO 30:13 There is a generation whose eyes are raised up, and how high are their eyelids lifted up!
+PRO 30:14 There is a generation whose teeth are swords and whose jawbones are knives, so they may devour the poor from the earth and the needy from among humanity.
+PRO 30:15 The leech has two daughters: "Give and give," they cry. There are three things that are never satisfied, four that never say, "Enough":
+PRO 30:16 Sheol; the barren womb; land that is never satisfied with water; and the fire that never says, "Enough!"
+PRO 30:17 The eye that mocks a father and scorns obedience to a mother will be pecked out by the ravens of the valley and will be eaten by the vultures.
+PRO 30:18 There are three things that are too wonderful for me, four that I do not understand:
+PRO 30:19 the way of an eagle in the sky; the way of a snake on a rock; the way of a ship in the heart of the sea; and the way of a man with a young woman.
+PRO 30:20 This is the way of an adulteress: she eats and she wipes her mouth and says, "I have not behaved wickedly."
+PRO 30:21 Under three things the earth trembles, and under four it cannot bear up:
+PRO 30:22 a slave when he becomes king; a fool when he is filled with food;
+PRO 30:23 a hated woman when she marries; and a slave girl when she takes the place of her mistress.
+PRO 30:24 Four things on earth are small and yet they are very wise:
+PRO 30:25 the ants are creatures that are not strong, but they prepare their food in the summer;
+PRO 30:26 the rock badgers are not mighty creatures, but they make their homes in the rocks.
+PRO 30:27 Locusts have no king, but all of them march in rank.
+PRO 30:28 As for the lizard, you can hold it in your two hands, yet it is found in kings' palaces.
+PRO 30:29 There are three things that are stately in their stride and four that are stately in how they walk:
+PRO 30:30 a lion, strongest among wild animals— it does not turn away from anything;
+PRO 30:31 a strutting rooster; a goat; and a king whose soldiers are beside him.
+PRO 30:32 If you have been foolish, exalting yourself, or if you have been devising evil— put your hand over your mouth.
+PRO 30:33 As churning milk makes butter and as one's nose will produce blood if it is twisted, so deeds done in anger produce conflict.
+PRO 31:1 The words of King Lemuel—a burden his mother taught him.
+PRO 31:2 What, my son? What is it, son of my womb? What do you want, son of my vows?
+PRO 31:3 Do not give your strength to women, or your ways to those who destroy kings.
+PRO 31:4 It is not for kings, Lemuel, it is not for kings to drink wine, or for rulers to crave strong drink,
+PRO 31:5 because when they drink they forget what has been decreed, and pervert the rights of all the afflicted.
+PRO 31:6 Give strong drink to a person who is perishing and wine to those in bitter distress.
+PRO 31:7 He will drink and he will forget his poverty and he will not remember his trouble.
+PRO 31:8 Speak for those who cannot speak, for the causes of all who are perishing.
+PRO 31:9 Speak out and judge by the measure of what is right and plead the cause of poor and needy people.
+PRO 31:10 Who can find a capable wife? Her value is far more than jewels.
+PRO 31:11 The heart of her husband trusts in her, and he will never be poor.
+PRO 31:12 She does good things for him and not evil all the days of her life.
+PRO 31:13 She searches for wool and flax and works with the delight of her hands.
+PRO 31:14 She is like the merchant ships; she brings her food from far away.
+PRO 31:15 She rises while it is night and gives food to her household, and she distributes portions to her female servants.
+PRO 31:16 She considers a field and buys it; with the fruit of her hands she plants a vineyard.
+PRO 31:17 She girds herself with strength and makes her arms strong.
+PRO 31:18 She knows what will make a good profit for her; all night long her lamp is not extinguished.
+PRO 31:19 She puts her hands on the spindle, and her hands grasp the twisting thread.
+PRO 31:20 She reaches out with her hand to poor people; she reaches out with her hands to needy people.
+PRO 31:21 She is not afraid of the snow for her household, for all her household are clothed in scarlet.
+PRO 31:22 She makes coverings for her bed, and she wears clothes of fine purple linen.
+PRO 31:23 Her husband is known at the gates, when he sits with the elders of the land.
+PRO 31:24 She makes linen garments and sells them, and she supplies sashes to the merchants.
+PRO 31:25 She is clothed with strength and honor, and she laughs at the future.
+PRO 31:26 She opens her mouth with wisdom and the law of kindness is on her tongue.
+PRO 31:27 She watches over the ways of her household and does not eat the bread of idleness.
+PRO 31:28 Her children rise up and call her blessed, and her husband praises her, saying,
+PRO 31:29 "Many women have done well, but you surpassed them all."
+PRO 31:30 Elegance is deceptive, beauty is vain, but a woman who fears Yahweh, she will be praised.
+PRO 31:31 Give her the fruit of her hands and let her works praise her in the gates.
