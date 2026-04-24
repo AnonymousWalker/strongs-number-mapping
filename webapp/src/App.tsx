@@ -33,6 +33,65 @@ function dataUrl(path: string) {
   return DATA_BUCKET_URL ? `${DATA_BUCKET_URL}${normalizedPath}` : normalizedPath
 }
 
+function mergeRangesWithWhitespaceBridge(
+  ranges: HighlightRange[],
+  verseText: string,
+): HighlightRange[] {
+  if (ranges.length === 0) return []
+  const sorted = [...ranges].sort((a, b) => a.start - b.start || a.end - b.end)
+  const merged: HighlightRange[] = []
+  let current = { ...sorted[0]! }
+
+  for (let i = 1; i < sorted.length; i++) {
+    const next = sorted[i]!
+    const bridge = verseText.slice(current.end, next.start)
+    if (next.start <= current.end || bridge.trim() === '') {
+      current.end = Math.max(current.end, next.end)
+    } else {
+      merged.push(current)
+      current = { ...next }
+    }
+  }
+
+  merged.push(current)
+  return merged
+}
+
+function removeWordFromRanges(
+  ranges: HighlightRange[],
+  wordRange: HighlightRange,
+  verseText: string,
+): HighlightRange[] {
+  const next: HighlightRange[] = []
+
+  for (const range of ranges) {
+    if (wordRange.end <= range.start || wordRange.start >= range.end) {
+      next.push(range)
+      continue
+    }
+
+    let leftStart = range.start
+    let leftEnd = Math.min(wordRange.start, range.end)
+    while (leftEnd > leftStart && /\s/.test(verseText[leftEnd - 1]!)) {
+      leftEnd -= 1
+    }
+    if (leftEnd > leftStart) {
+      next.push({ start: leftStart, end: leftEnd })
+    }
+
+    let rightStart = Math.max(wordRange.end, range.start)
+    const rightEnd = range.end
+    while (rightStart < rightEnd && /\s/.test(verseText[rightStart]!)) {
+      rightStart += 1
+    }
+    if (rightEnd > rightStart) {
+      next.push({ start: rightStart, end: rightEnd })
+    }
+  }
+
+  return mergeRanges(next)
+}
+
 function App() {
   const [terms, setTerms] = useState<TermsMap | null>(null)
   const [strongIndex, setStrongIndex] = useState<StrongIndex | null>(null)
@@ -58,24 +117,30 @@ function App() {
     saveHighlightsToStorage(highlightsByRow)
   }, [highlightsByRow])
 
-  const addHighlight = useCallback((rowId: string, start: number, end: number) => {
-    setHighlightsByRow((prev) => {
-      const nextList = mergeRanges([...(prev[rowId] ?? []), { start, end }])
-      return { ...prev, [rowId]: nextList }
-    })
-  }, [])
+  const addHighlight = useCallback(
+    (rowId: string, start: number, end: number, verseText: string) => {
+      setHighlightsByRow((prev) => {
+        const appended = [...(prev[rowId] ?? []), { start, end }]
+        const nextList = mergeRangesWithWhitespaceBridge(appended, verseText)
+        return { ...prev, [rowId]: nextList }
+      })
+    },
+    [],
+  )
 
-  const removeHighlight = useCallback((rowId: string, start: number, end: number) => {
-    setHighlightsByRow((prev) => {
-      const list = (prev[rowId] ?? []).filter(
-        (range) => !(range.start === start && range.end === end),
-      )
-      const next = { ...prev }
-      if (list.length === 0) delete next[rowId]
-      else next[rowId] = list
-      return next
-    })
-  }, [])
+  const removeHighlight = useCallback(
+    (rowId: string, start: number, end: number, verseText: string) => {
+      setHighlightsByRow((prev) => {
+        const current = prev[rowId] ?? []
+        const list = removeWordFromRanges(current, { start, end }, verseText)
+        const next = { ...prev }
+        if (list.length === 0) delete next[rowId]
+        else next[rowId] = list
+        return next
+      })
+    },
+    [],
+  )
 
   const exportHighlights = useCallback(() => {
     const doc = { version: HIGHLIGHT_EXPORT_VERSION, highlights: highlightsByRow }

@@ -30,8 +30,8 @@ type TermCategoryProps = {
   onToggleStrongs: (strongKey: string) => void
   onShowMore: (strongKey: string) => void
   onResolveVerseText: (verseRef: string) => Promise<void>
-  onAddHighlight: (rowId: string, start: number, end: number) => void
-  onRemoveHighlight: (rowId: string, start: number, end: number) => void
+  onAddHighlight: (rowId: string, start: number, end: number, verseText: string) => void
+  onRemoveHighlight: (rowId: string, start: number, end: number, verseText: string) => void
 }
 
 function TermGroup({

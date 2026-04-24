@@ -14,8 +14,8 @@ type MatchRowProps = {
   verseText?: string
   highlights: HighlightRange[]
   onResolveVerseText: (verseRef: string) => Promise<void>
-  onAddHighlight: (rowId: string, start: number, end: number) => void
-  onRemoveHighlight: (rowId: string, start: number, end: number) => void
+  onAddHighlight: (rowId: string, start: number, end: number, verseText: string) => void
+  onRemoveHighlight: (rowId: string, start: number, end: number, verseText: string) => void
 }
 
 function MatchRow({
@@ -48,7 +48,7 @@ function MatchRow({
         if (!Number.isNaN(start) && !Number.isNaN(end)) {
           event.preventDefault()
           event.stopPropagation()
-          onRemoveHighlight(rowId, start, end)
+          onRemoveHighlight(rowId, start, end, verseText)
         }
         return
       }
@@ -60,7 +60,7 @@ function MatchRow({
       const offset = getTextOffsetInElement(root, range.startContainer, range.startOffset)
       const wordRange = getWordLikeRangeAtOffset(verseText, offset)
       if (wordRange && wordRange.end > wordRange.start) {
-        onAddHighlight(rowId, wordRange.start, wordRange.end)
+        onAddHighlight(rowId, wordRange.start, wordRange.end, verseText)
       }
     },
     [verseText, rowId, onAddHighlight, onRemoveHighlight],

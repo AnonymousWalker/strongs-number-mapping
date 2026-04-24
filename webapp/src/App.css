@@ -205,7 +205,8 @@
   background: #fef08a;
   color: inherit;
   border-radius: 2px;
-  padding: 0 1px;
+  padding: 0;
+  line-height: inherit;
   cursor: pointer;
   user-select: none;
 }
