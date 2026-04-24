@@ -1,8 +1,27 @@
-import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
+import {
+  useCallback,
+  useEffect,
+  useMemo,
+  useRef,
+  useState,
+  type ChangeEvent,
+} from 'react'
+import FileDownload from '@mui/icons-material/FileDownload'
+import FileUpload from '@mui/icons-material/FileUpload'
+import Button from '@mui/material/Button'
 import TermGroup, {
   type StrongIndex,
   type TermsMap,
 } from './components/TermGroup'
+import {
+  HIGHLIGHT_EXPORT_VERSION,
+  loadHighlightsFromStorage,
+  mergeHighlightMaps,
+  mergeRanges,
+  parseHighlightsImport,
+  saveHighlightsToStorage,
+  type HighlightRange,
+} from './highlightStorage'
 import './App.css'
 
 const INITIAL_RESULTS = 50
@@ -29,6 +48,64 @@ function App() {
   const [verseTextByRef, setVerseTextByRef] = useState<Record<string, string>>({})
   const verseBookCacheRef = useRef<Record<string, Record<string, string>>>({})
   const verseBookPromiseRef = useRef<Record<string, Promise<Record<string, string>>>>({})
+
+  const [highlightsByRow, setHighlightsByRow] = useState<
+    Record<string, HighlightRange[]>
+  >(() => loadHighlightsFromStorage())
+  const [highlightImportMessage, setHighlightImportMessage] = useState<string | null>(null)
+
+  useEffect(() => {
+    saveHighlightsToStorage(highlightsByRow)
+  }, [highlightsByRow])
+
+  const addHighlight = useCallback((rowId: string, start: number, end: number) => {
+    setHighlightsByRow((prev) => {
+      const nextList = mergeRanges([...(prev[rowId] ?? []), { start, end }])
+      return { ...prev, [rowId]: nextList }
+    })
+  }, [])
+
+  const removeHighlight = useCallback((rowId: string, start: number, end: number) => {
+    setHighlightsByRow((prev) => {
+      const list = (prev[rowId] ?? []).filter(
+        (range) => !(range.start === start && range.end === end),
+      )
+      const next = { ...prev }
+      if (list.length === 0) delete next[rowId]
+      else next[rowId] = list
+      return next
+    })
+  }, [])
+
+  const exportHighlights = useCallback(() => {
+    const doc = { version: HIGHLIGHT_EXPORT_VERSION, highlights: highlightsByRow }
+    const blob = new Blob([JSON.stringify(doc, null, 2)], { type: 'application/json' })
+    const url = URL.createObjectURL(blob)
+    const anchor = document.createElement('a')
+    anchor.href = url
+    anchor.download = `verse-highlights-${new Date().toISOString().slice(0, 10)}.json`
+    anchor.click()
+    URL.revokeObjectURL(url)
+  }, [highlightsByRow])
+
+  const importHighlightsFromFile = useCallback(
+    (event: ChangeEvent<HTMLInputElement>) => {
+      const file = event.target.files?.[0]
+      event.target.value = ''
+      if (!file) return
+      void file.text().then((text) => {
+        const parsed = parseHighlightsImport(text)
+        if (!parsed) {
+          setHighlightImportMessage('Invalid highlights file.')
+          return
+        }
+        setHighlightsByRow((prev) => mergeHighlightMaps(prev, parsed))
+        const rowCount = Object.keys(parsed).length
+        setHighlightImportMessage(`Imported highlights for ${rowCount} row key(s).`)
+      })
+    },
+    [],
+  )
 
   useEffect(() => {
     const controller = new AbortController()
@@ -206,7 +283,39 @@ function App() {
   return (
     <main className="app">
       <header className="app-header">
-        <h1>OT Terms and Strongs Numbers</h1>
+        <div className="app-header-main">
+          <h1>OT Terms and Strongs Numbers</h1>
+          <div className="highlight-toolbar">
+            <Button
+              type="button"
+              size="small"
+              color="inherit"
+              startIcon={<FileUpload />}
+              onClick={exportHighlights}
+            >
+              Export
+            </Button>
+            <input
+              id="hl-import-input"
+              className="sr-only"
+              type="file"
+              accept="application/json,.json"
+              onChange={importHighlightsFromFile}
+            />
+            <Button
+              component="label"
+              htmlFor="hl-import-input"
+              size="small"
+              color="inherit"
+              startIcon={<FileDownload />}
+            >
+              Import
+            </Button>
+            {highlightImportMessage && (
+              <span className="toolbar-message">{highlightImportMessage}</span>
+            )}
+          </div>
+        </div>
       </header>
 
       {loadingTerms && <p className="status">Loading OTerms.json...</p>}
@@ -226,10 +335,13 @@ function App() {
           initialResults={INITIAL_RESULTS}
           resultPageSize={RESULT_PAGE_SIZE}
           verseTextByRef={verseTextByRef}
+          highlightsByRow={highlightsByRow}
           onToggleTerm={toggleTerm}
           onToggleStrongs={toggleStrongs}
           onShowMore={showMoreForStrong}
           onResolveVerseText={resolveVerseText}
+          onAddHighlight={addHighlight}
+          onRemoveHighlight={removeHighlight}
         />
       )}
     </main>

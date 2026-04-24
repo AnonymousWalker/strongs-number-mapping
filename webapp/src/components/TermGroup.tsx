@@ -1,4 +1,5 @@
 import MatchRow from './MatchRow'
+import type { HighlightRange } from '../highlightStorage'
 
 type TermEntry = {
   HEBREW: string
@@ -24,10 +25,13 @@ type TermCategoryProps = {
   initialResults: number
   resultPageSize: number
   verseTextByRef: Record<string, string>
+  highlightsByRow: Record<string, HighlightRange[]>
   onToggleTerm: (term: string) => void
   onToggleStrongs: (strongKey: string) => void
   onShowMore: (strongKey: string) => void
   onResolveVerseText: (verseRef: string) => Promise<void>
+  onAddHighlight: (rowId: string, start: number, end: number) => void
+  onRemoveHighlight: (rowId: string, start: number, end: number) => void
 }
 
 function TermGroup({
@@ -40,10 +44,13 @@ function TermGroup({
   initialResults,
   resultPageSize,
   verseTextByRef,
+  highlightsByRow,
   onToggleTerm,
   onToggleStrongs,
   onShowMore,
   onResolveVerseText,
+  onAddHighlight,
+  onRemoveHighlight,
 }: TermCategoryProps) {
   return (
     <section className="accordion-list" aria-label="Terms list">
@@ -105,15 +112,22 @@ function TermGroup({
                                 <span>ULB Verse Text</span>
                               </div>
                               <ul className="match-list">
-                                {visibleMatches.map((match, matchIndex) => (
-                                  <MatchRow
-                                    key={`${strongKey}-${matchIndex}`}
-                                    word={match.word}
-                                    verseRef={match.verse_ref}
-                                    verseText={verseTextByRef[match.verse_ref]}
-                                    onResolveVerseText={onResolveVerseText}
-                                  />
-                                ))}
+                                {visibleMatches.map((match, matchIndex) => {
+                                  const rowId = `${strongKey}::${matchIndex}`
+                                  return (
+                                    <MatchRow
+                                      key={rowId}
+                                      rowId={rowId}
+                                      word={match.word}
+                                      verseRef={match.verse_ref}
+                                      verseText={verseTextByRef[match.verse_ref]}
+                                      highlights={highlightsByRow[rowId] ?? []}
+                                      onResolveVerseText={onResolveVerseText}
+                                      onAddHighlight={onAddHighlight}
+                                      onRemoveHighlight={onRemoveHighlight}
+                                    />
+                                  )
+                                })}
                               </ul>
                             </>
                           )}
